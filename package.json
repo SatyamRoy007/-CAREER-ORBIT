@@ -7,7 +7,7 @@
     "dev": "concurrently -k \"npm:dev:api\" \"npm:dev:web\"",
     "dev:api": "node server/index.mjs",
     "dev:web": "vite --configLoader runner",
-    "build": "tsc -b && vite build --configLoader runner",
+    "build": "vite build --configLoader runner",
     "start": "node server/index.mjs",
     "check": "tsc -b --pretty false"
   },
