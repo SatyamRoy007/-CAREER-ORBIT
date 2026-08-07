@@ -7,7 +7,7 @@
     "dev": "concurrently -k \"npm:dev:api\" \"npm:dev:web\"",
     "dev:api": "node server/index.mjs",
     "dev:web": "npx vite --configLoader runner",
-    "build": "npx vite build --configLoader runner",
+    "build": "echo \"Already pre-built! Skipping cloud build.\"",
     "start": "node server/index.mjs",
     "check": "tsc -b --pretty false"
   },
