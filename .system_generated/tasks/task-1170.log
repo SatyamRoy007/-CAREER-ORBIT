@@ -1,0 +1,13 @@
+
+> career-orbit@1.0.0 build
+> tsc -b && vite build --configLoader runner
+
+vite v6.4.3 building for production...
+transforming...
+✓ 26 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/index.html                   0.47 kB │ gzip:  0.31 kB
+dist/assets/index-C-D0Nug5.css   11.03 kB │ gzip:  3.25 kB
+dist/assets/index-CAIj6iwe.js   158.09 kB │ gzip: 50.73 kB
+✓ built in 1.99s

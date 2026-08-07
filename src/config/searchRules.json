@@ -1,0 +1,17 @@
+{
+  "filtering": {
+    "role": "flexible",
+    "location": "strict",
+    "skills": "flexible",
+    "remoteOverridesLocation": true
+  },
+  "ranking": {
+    "weights": {
+      "role": 40,
+      "skills": 30,
+      "location": 20,
+      "experience": 10
+    },
+    "minimumScore": 30
+  }
+}

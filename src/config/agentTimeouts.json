@@ -1,0 +1,11 @@
+{
+  "resumeAgent": 10000,
+  "planningAgent": 5000,
+  "queryExpansionAgent": 5000,
+  "sourceAgent": 30000,
+  "normalizerAgent": 10000,
+  "qualityAgent": 10000,
+  "deduplicationAgent": 5000,
+  "rankerAgent": 5000,
+  "reflectionAgent": 5000
+}

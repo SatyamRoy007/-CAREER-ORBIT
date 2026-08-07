@@ -1,0 +1,4 @@
+
+> career-orbit@1.0.0 check
+> tsc -b --pretty false
+

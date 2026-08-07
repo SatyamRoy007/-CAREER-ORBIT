@@ -1,0 +1,1289 @@
+
+> server@1.0.0 dev
+> tsc && node dist/server/src/index.js
+
+◇ injected env (11) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+info: Server listening on port 3000 {"timestamp":"2026-08-06 10:44:11"}
+Connected to the SQLite database.
+Database schema verified.
+info: Performance Tick - RSS: 64MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 10:45:11"}
+info: Performance Tick - RSS: 64MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 10:46:11"}
+info: Performance Tick - RSS: 64MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 10:47:11"}
+info: Performance Tick - RSS: 64MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 10:48:12"}
+info: Performance Tick - RSS: 64MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 10:49:12"}
+info: Performance Tick - RSS: 65MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 10:50:12"}
+info: Performance Tick - RSS: 65MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 10:51:12"}
+info: Performance Tick - RSS: 65MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 10:52:12"}
+info: Performance Tick - RSS: 64MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 10:53:12"}
+info: Performance Tick - RSS: 64MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 10:54:12"}
+info: Performance Tick - RSS: 64MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 10:55:12"}
+info: Performance Tick - RSS: 64MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 10:56:12"}
+info: Performance Tick - RSS: 64MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 10:57:12"}
+info: Performance Tick - RSS: 64MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 10:58:12"}
+info: Performance Tick - RSS: 64MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 10:59:12"}
+info: Performance Tick - RSS: 64MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 11:00:12"}
+info: Performance Tick - RSS: 64MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 11:01:12"}
+info: Performance Tick - RSS: 65MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 11:02:12"}
+info: Performance Tick - RSS: 65MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 11:03:12"}
+info: Performance Tick - RSS: 65MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 11:04:12"}
+info: Performance Tick - RSS: 65MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 11:05:12"}
+info: Performance Tick - RSS: 65MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 11:06:12"}
+info: Performance Tick - RSS: 65MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 11:07:12"}
+info: Performance Tick - RSS: 65MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 11:08:12"}
+info: Performance Tick - RSS: 65MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 11:09:12"}
+info: Performance Tick - RSS: 65MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 11:10:12"}
+info: Performance Tick - RSS: 65MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 11:11:12"}
+info: Performance Tick - RSS: 65MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 11:12:12"}
+info: Performance Tick - RSS: 65MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 11:13:12"}
+info: Performance Tick - RSS: 65MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 11:14:12"}
+info: Performance Tick - RSS: 65MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 11:15:12"}
+info: Performance Tick - RSS: 65MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 11:16:12"}
+info: Performance Tick - RSS: 65MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 11:17:12"}
+info: Performance Tick - RSS: 65MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 11:18:12"}
+info: Performance Tick - RSS: 65MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 11:19:12"}
+info: Performance Tick - RSS: 65MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 11:20:12"}
+info: Performance Tick - RSS: 65MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 11:21:12"}
+info: Performance Tick - RSS: 65MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 11:22:12"}
+info: Performance Tick - RSS: 65MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 11:23:12"}
+info: Performance Tick - RSS: 65MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 11:24:12"}
+info: Performance Tick - RSS: 65MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 11:25:12"}
+info: Performance Tick - RSS: 65MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 11:26:12"}
+info: Performance Tick - RSS: 65MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 11:27:12"}
+info: Performance Tick - RSS: 65MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 11:28:12"}
+info: Performance Tick - RSS: 65MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 11:29:12"}
+info: Performance Tick - RSS: 65MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 11:30:12"}
+info: Performance Tick - RSS: 66MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 11:31:12"}
+info: Performance Tick - RSS: 66MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 11:32:12"}
+info: User connected: e7d9fa15-cf1d-4a8a-9f1a-7df9c1778b20 (BTXB856Qg_eCPRzRAAAB) {"timestamp":"2026-08-06 11:33:04"}
+info: Performance Tick - RSS: 68MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 11:33:12"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 11:33:12"}
+info: Performance Tick - RSS: 67MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 11:34:12"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 11:34:12"}
+error: Error fetching MMR for e7d9fa15-cf1d-4a8a-9f1a-7df9c1778b20: SQLITE_ERROR: no such column: mmr {"__augmented":true,"code":"SQLITE_ERROR","errno":1,"stack":"Error: SQLITE_ERROR: no such column: mmr\n--> in Database#get('SELECT mmr FROM Users WHERE id = ?', [ 'e7d9fa15-cf1d-4a8a-9f1a-7df9c1778b20' ], [Function (anonymous)])\n    at file:///C:/Users/Satyam/.gemini/antigravity/scratch/polywar/server/dist/server/src/db/Database.js:250:21\n    at new Promise (<anonymous>)\n    at Database.get (file:///C:/Users/Satyam/.gemini/antigravity/scratch/polywar/server/dist/server/src/db/Database.js:249:16)\n    at MatchmakingService.joinQueue (file:///C:/Users/Satyam/.gemini/antigravity/scratch/polywar/server/dist/server/src/core/MatchmakingService.js:31:35)\n    at Socket.<anonymous> (file:///C:/Users/Satyam/.gemini/antigravity/scratch/polywar/server/dist/server/src/index.js:357:26)\n    at Socket.emit (node:events:508:28)\n    at Socket.emitUntyped (C:\\Users\\Satyam\\.gemini\\antigravity\\scratch\\polywar\\server\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n    at C:\\Users\\Satyam\\.gemini\\antigravity\\scratch\\polywar\\server\\node_modules\\socket.io\\dist\\socket.js:697:39\n    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)","timestamp":"2026-08-06T06:04:41.438Z"}
+info: User disconnected: e7d9fa15-cf1d-4a8a-9f1a-7df9c1778b20 (BTXB856Qg_eCPRzRAAAB) {"timestamp":"2026-08-06 11:34:53"}
+info: Performance Tick - RSS: 67MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 11:35:12"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 11:35:12"}
+info: Performance Tick - RSS: 67MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 11:36:12"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 11:36:12"}
+info: Performance Tick - RSS: 67MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 11:37:12"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 11:37:12"}
+info: Performance Tick - RSS: 67MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 11:38:12"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 11:38:12"}
+info: Performance Tick - RSS: 67MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 11:39:12"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 11:39:12"}
+info: Performance Tick - RSS: 67MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 11:40:12"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 11:40:12"}
+info: Performance Tick - RSS: 67MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 11:41:12"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 11:41:12"}
+info: User connected: e7d9fa15-cf1d-4a8a-9f1a-7df9c1778b20 (GiI0AKhchvpVYTfeAAAD) {"timestamp":"2026-08-06 11:41:37"}
+info: Performance Tick - RSS: 68MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 11:42:12"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 11:42:12"}
+info: Performance Tick - RSS: 68MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 11:43:12"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 11:43:12"}
+info: Performance Tick - RSS: 68MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 11:44:12"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 11:44:12"}
+info: Performance Tick - RSS: 68MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 11:45:12"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 11:45:12"}
+info: Performance Tick - RSS: 68MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 11:46:12"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 11:46:12"}
+info: Performance Tick - RSS: 68MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 11:47:12"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 11:47:12"}
+info: Performance Tick - RSS: 68MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 11:48:12"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 11:48:12"}
+info: Performance Tick - RSS: 68MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 11:49:12"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 11:49:12"}
+info: Performance Tick - RSS: 68MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 11:50:12"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 11:50:12"}
+info: Performance Tick - RSS: 68MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 11:51:12"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 11:51:12"}
+info: Performance Tick - RSS: 68MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 11:52:12"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 11:52:12"}
+info: Performance Tick - RSS: 68MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 11:53:12"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 11:53:12"}
+info: Performance Tick - RSS: 68MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 11:54:12"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 11:54:12"}
+info: Performance Tick - RSS: 68MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 11:55:12"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 11:55:12"}
+info: Performance Tick - RSS: 68MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 11:56:12"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 11:56:12"}
+info: Performance Tick - RSS: 68MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 11:57:12"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 11:57:12"}
+info: Performance Tick - RSS: 68MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 11:58:12"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 11:58:12"}
+info: Performance Tick - RSS: 68MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 11:59:12"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 11:59:12"}
+info: Performance Tick - RSS: 68MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 12:00:12"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 12:00:12"}
+info: Performance Tick - RSS: 68MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 12:01:12"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 12:01:12"}
+info: Performance Tick - RSS: 68MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 12:02:12"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 12:02:12"}
+info: Performance Tick - RSS: 68MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 12:03:12"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 12:03:12"}
+info: Performance Tick - RSS: 68MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 12:04:12"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 12:04:12"}
+info: Performance Tick - RSS: 68MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 12:05:12"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 12:05:12"}
+info: Performance Tick - RSS: 68MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 12:06:12"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 12:06:12"}
+info: Performance Tick - RSS: 68MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 12:07:12"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 12:07:12"}
+info: Performance Tick - RSS: 68MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 12:08:12"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 12:08:12"}
+info: Performance Tick - RSS: 68MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 12:09:12"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 12:09:12"}
+info: Performance Tick - RSS: 68MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 12:10:12"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 12:10:12"}
+info: Performance Tick - RSS: 68MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 12:11:12"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 12:11:12"}
+info: Performance Tick - RSS: 68MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 12:12:12"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 12:12:12"}
+info: Performance Tick - RSS: 68MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 12:13:12"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 12:13:12"}
+info: Performance Tick - RSS: 68MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 12:14:12"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 12:14:12"}
+info: Performance Tick - RSS: 68MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 12:15:12"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 12:15:12"}
+info: Performance Tick - RSS: 68MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 12:16:12"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 12:16:12"}
+info: Performance Tick - RSS: 68MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 12:17:12"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 12:17:12"}
+info: Performance Tick - RSS: 68MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 12:18:12"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 12:18:12"}
+info: Performance Tick - RSS: 68MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 12:19:12"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 12:19:12"}
+info: Performance Tick - RSS: 68MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 12:20:12"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 12:20:12"}
+info: Performance Tick - RSS: 68MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 12:21:12"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 12:21:12"}
+info: Performance Tick - RSS: 68MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 12:22:12"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 12:22:12"}
+info: Performance Tick - RSS: 68MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 12:23:12"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 12:23:12"}
+info: Performance Tick - RSS: 68MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 12:24:12"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 12:24:12"}
+info: Performance Tick - RSS: 68MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 12:25:12"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 12:25:12"}
+info: Performance Tick - RSS: 68MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 12:26:12"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 12:26:12"}
+info: Performance Tick - RSS: 68MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 12:27:12"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 12:27:12"}
+info: Performance Tick - RSS: 68MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 12:28:12"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 12:28:12"}
+info: Performance Tick - RSS: 68MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 12:29:12"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 12:29:12"}
+info: Performance Tick - RSS: 68MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 12:30:12"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 12:30:12"}
+info: Performance Tick - RSS: 68MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 12:31:12"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 12:31:12"}
+info: Performance Tick - RSS: 68MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 12:32:12"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 12:32:12"}
+info: Performance Tick - RSS: 68MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 12:33:12"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 12:33:12"}
+info: Performance Tick - RSS: 68MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 12:34:12"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 12:34:12"}
+info: Performance Tick - RSS: 68MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 12:35:12"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 12:35:12"}
+info: Performance Tick - RSS: 69MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 12:36:12"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 12:36:12"}
+info: Performance Tick - RSS: 69MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 12:37:12"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 12:37:12"}
+info: Performance Tick - RSS: 69MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 12:38:12"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 12:38:12"}
+info: Performance Tick - RSS: 69MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 12:39:12"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 12:39:12"}
+info: Performance Tick - RSS: 69MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 12:40:12"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 12:40:12"}
+info: Performance Tick - RSS: 69MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 12:41:12"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 12:41:12"}
+info: Performance Tick - RSS: 69MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 12:42:12"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 12:42:12"}
+info: Performance Tick - RSS: 69MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 12:43:12"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 12:43:12"}
+info: Performance Tick - RSS: 69MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 12:44:12"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 12:44:12"}
+info: Performance Tick - RSS: 69MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 12:45:12"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 12:45:12"}
+info: Performance Tick - RSS: 69MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 12:46:12"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 12:46:12"}
+info: Performance Tick - RSS: 69MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 12:47:12"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 12:47:12"}
+info: Performance Tick - RSS: 69MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 12:48:12"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 12:48:12"}
+info: Performance Tick - RSS: 69MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 12:49:12"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 12:49:12"}
+info: Performance Tick - RSS: 69MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 12:50:12"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 12:50:12"}
+info: Performance Tick - RSS: 69MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 12:51:12"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 12:51:12"}
+info: Performance Tick - RSS: 69MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 12:52:12"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 12:52:12"}
+info: Performance Tick - RSS: 69MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 12:53:12"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 12:53:12"}
+info: Performance Tick - RSS: 69MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 12:54:12"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 12:54:13"}
+info: Performance Tick - RSS: 69MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 12:55:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 12:55:13"}
+info: Performance Tick - RSS: 69MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 12:56:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 12:56:13"}
+info: Performance Tick - RSS: 69MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 12:57:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 12:57:13"}
+info: Performance Tick - RSS: 69MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 12:58:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 12:58:13"}
+info: Performance Tick - RSS: 69MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 12:59:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 12:59:13"}
+info: Performance Tick - RSS: 69MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 13:00:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 13:00:13"}
+info: Performance Tick - RSS: 69MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 13:01:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 13:01:13"}
+info: Performance Tick - RSS: 69MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 13:02:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 13:02:13"}
+info: User disconnected: e7d9fa15-cf1d-4a8a-9f1a-7df9c1778b20 (GiI0AKhchvpVYTfeAAAD) {"timestamp":"2026-08-06 13:02:24"}
+info: Performance Tick - RSS: 69MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 13:03:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 13:03:13"}
+info: Performance Tick - RSS: 69MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 13:04:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 13:04:13"}
+info: Performance Tick - RSS: 69MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 13:05:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 13:05:13"}
+info: Performance Tick - RSS: 69MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 13:06:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 13:06:13"}
+info: Performance Tick - RSS: 69MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 13:07:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 13:07:13"}
+info: Performance Tick - RSS: 69MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 13:08:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 13:08:13"}
+info: Performance Tick - RSS: 69MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 13:09:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 13:09:13"}
+info: Performance Tick - RSS: 69MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 13:10:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 13:10:13"}
+info: Performance Tick - RSS: 69MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 13:11:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 13:11:13"}
+info: Performance Tick - RSS: 69MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 13:12:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 13:12:13"}
+info: Performance Tick - RSS: 63MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 13:13:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 13:13:13"}
+info: Performance Tick - RSS: 63MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 13:14:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 13:14:13"}
+info: Performance Tick - RSS: 63MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 13:15:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 13:15:13"}
+info: Performance Tick - RSS: 63MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 13:16:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 13:16:13"}
+info: Performance Tick - RSS: 63MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 13:17:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 13:17:13"}
+info: Performance Tick - RSS: 60MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 13:18:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 13:18:13"}
+info: Performance Tick - RSS: 60MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 13:19:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 13:19:13"}
+info: Performance Tick - RSS: 60MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 13:20:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 13:20:13"}
+info: Performance Tick - RSS: 60MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 13:21:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 13:21:13"}
+info: Performance Tick - RSS: 60MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 13:22:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 13:22:13"}
+info: Performance Tick - RSS: 59MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 13:23:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 13:23:13"}
+info: Performance Tick - RSS: 59MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 13:24:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 13:24:13"}
+info: Performance Tick - RSS: 59MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 13:25:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 13:25:13"}
+info: Performance Tick - RSS: 59MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 13:26:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 13:26:13"}
+info: Performance Tick - RSS: 59MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 13:27:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 13:27:13"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 13:28:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 13:28:13"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 13:29:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 13:29:13"}
+info: User connected: e7d9fa15-cf1d-4a8a-9f1a-7df9c1778b20 (J9gbUg928XQrmuRTAAAF) {"timestamp":"2026-08-06 13:30:09"}
+info: Performance Tick - RSS: 55MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 13:30:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 13:30:13"}
+info: Performance Tick - RSS: 55MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 13:31:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 13:31:13"}
+info: Performance Tick - RSS: 56MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 13:32:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 13:32:13"}
+info: Performance Tick - RSS: 53MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 13:33:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 13:33:13"}
+info: Performance Tick - RSS: 53MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 13:34:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 13:34:13"}
+info: Performance Tick - RSS: 53MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 13:35:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 13:35:13"}
+info: Performance Tick - RSS: 53MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 13:36:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 13:36:13"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 13:37:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 13:37:13"}
+info: Performance Tick - RSS: 53MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 13:38:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 13:38:13"}
+info: Performance Tick - RSS: 53MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 13:39:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 13:39:13"}
+info: Performance Tick - RSS: 53MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 13:40:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 13:40:13"}
+info: Performance Tick - RSS: 53MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 13:41:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 13:41:13"}
+info: Performance Tick - RSS: 53MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 13:42:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 13:42:13"}
+info: Performance Tick - RSS: 53MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 13:43:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 13:43:13"}
+info: Performance Tick - RSS: 53MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 13:44:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 13:44:13"}
+info: User disconnected: e7d9fa15-cf1d-4a8a-9f1a-7df9c1778b20 (J9gbUg928XQrmuRTAAAF) {"timestamp":"2026-08-06 13:44:40"}
+info: Performance Tick - RSS: 53MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 13:45:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 13:45:13"}
+info: Performance Tick - RSS: 53MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 13:46:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 13:46:13"}
+info: Performance Tick - RSS: 53MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 13:47:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 13:47:13"}
+info: Performance Tick - RSS: 53MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 13:48:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 13:48:13"}
+info: Performance Tick - RSS: 53MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 13:49:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 13:49:13"}
+info: Performance Tick - RSS: 53MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 13:50:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 13:50:13"}
+info: Performance Tick - RSS: 53MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 13:51:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 13:51:13"}
+info: Performance Tick - RSS: 53MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 13:52:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 13:52:13"}
+info: Performance Tick - RSS: 53MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 13:53:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 13:53:13"}
+info: Performance Tick - RSS: 53MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 13:54:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 13:54:13"}
+info: Performance Tick - RSS: 53MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 13:55:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 13:55:13"}
+info: Performance Tick - RSS: 53MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 13:56:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 13:56:13"}
+info: Performance Tick - RSS: 53MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 13:57:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 13:57:13"}
+info: Performance Tick - RSS: 53MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 13:58:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 13:58:13"}
+info: Performance Tick - RSS: 53MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 13:59:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 13:59:13"}
+info: Performance Tick - RSS: 53MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 14:00:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 14:00:13"}
+info: Performance Tick - RSS: 53MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 14:01:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 14:01:13"}
+info: Performance Tick - RSS: 53MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 14:02:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 14:02:13"}
+info: Performance Tick - RSS: 53MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 14:03:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 14:03:13"}
+info: Performance Tick - RSS: 53MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 14:04:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 14:04:13"}
+info: Performance Tick - RSS: 53MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 14:05:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 14:05:13"}
+info: Performance Tick - RSS: 53MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 14:06:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 14:06:13"}
+info: Performance Tick - RSS: 53MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 14:07:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 14:07:13"}
+info: Performance Tick - RSS: 53MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 14:08:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 14:08:13"}
+info: Performance Tick - RSS: 53MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 14:09:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 14:09:13"}
+info: Performance Tick - RSS: 53MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 14:10:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 14:10:13"}
+info: Performance Tick - RSS: 53MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 14:11:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 14:11:13"}
+info: Performance Tick - RSS: 53MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 14:12:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 14:12:13"}
+info: Performance Tick - RSS: 50MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 14:13:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 14:13:13"}
+info: Performance Tick - RSS: 50MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 14:14:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 14:14:13"}
+info: Performance Tick - RSS: 50MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 14:15:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 14:15:13"}
+info: Performance Tick - RSS: 50MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 14:16:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 14:16:13"}
+info: Performance Tick - RSS: 50MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 14:17:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 14:17:13"}
+info: Performance Tick - RSS: 49MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 14:18:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 14:18:13"}
+info: Performance Tick - RSS: 49MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 14:19:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 14:19:13"}
+info: Performance Tick - RSS: 49MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 14:20:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 14:20:13"}
+info: Performance Tick - RSS: 49MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 14:21:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 14:21:13"}
+info: Performance Tick - RSS: 49MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 14:22:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 14:22:13"}
+info: Performance Tick - RSS: 49MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 14:23:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 14:23:13"}
+info: Performance Tick - RSS: 49MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 14:24:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 14:24:13"}
+info: Performance Tick - RSS: 49MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 14:25:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 14:25:13"}
+info: Performance Tick - RSS: 49MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 14:26:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 14:26:13"}
+info: Performance Tick - RSS: 49MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 14:27:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 14:27:13"}
+info: Performance Tick - RSS: 47MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 14:28:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 14:28:13"}
+info: Performance Tick - RSS: 47MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 14:29:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 14:29:13"}
+info: Performance Tick - RSS: 47MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 14:30:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 14:30:13"}
+info: Performance Tick - RSS: 47MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 14:31:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 14:31:13"}
+info: Performance Tick - RSS: 47MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 14:32:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 14:32:13"}
+info: Performance Tick - RSS: 47MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 14:33:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 14:33:13"}
+info: Performance Tick - RSS: 47MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 14:34:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 14:34:13"}
+info: Performance Tick - RSS: 47MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 14:35:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 14:35:13"}
+info: Performance Tick - RSS: 47MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 14:36:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 14:36:13"}
+info: Performance Tick - RSS: 47MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 14:37:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 14:37:13"}
+info: Performance Tick - RSS: 47MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 14:38:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 14:38:13"}
+info: Performance Tick - RSS: 47MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 14:39:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 14:39:13"}
+info: Performance Tick - RSS: 47MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 14:40:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 14:40:13"}
+info: Performance Tick - RSS: 47MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 14:41:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 14:41:13"}
+info: Performance Tick - RSS: 47MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 14:42:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 14:42:13"}
+info: Performance Tick - RSS: 47MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 14:43:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 14:43:13"}
+info: Performance Tick - RSS: 47MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 14:44:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 14:44:13"}
+info: Performance Tick - RSS: 47MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 14:45:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 14:45:13"}
+info: Performance Tick - RSS: 47MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 14:46:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 14:46:13"}
+info: Performance Tick - RSS: 48MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 14:47:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 14:47:13"}
+info: Performance Tick - RSS: 47MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 14:48:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 14:48:13"}
+info: Performance Tick - RSS: 47MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 14:49:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 14:49:13"}
+info: Performance Tick - RSS: 47MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 14:50:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 14:50:13"}
+info: Performance Tick - RSS: 47MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 14:51:13"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 14:51:13"}
+info: Performance Tick - RSS: 47MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 14:52:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 14:52:14"}
+info: Performance Tick - RSS: 47MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 14:53:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 14:53:14"}
+info: Performance Tick - RSS: 47MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 14:54:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 14:54:14"}
+info: Performance Tick - RSS: 47MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 14:55:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 14:55:14"}
+info: Performance Tick - RSS: 47MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 14:56:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 14:56:14"}
+info: Performance Tick - RSS: 47MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 14:57:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 14:57:14"}
+info: Performance Tick - RSS: 47MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 14:58:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 14:58:14"}
+info: Performance Tick - RSS: 47MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 14:59:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 14:59:14"}
+info: Performance Tick - RSS: 47MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 15:00:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 15:00:14"}
+info: Performance Tick - RSS: 47MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 15:01:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 15:01:14"}
+info: Performance Tick - RSS: 47MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 15:02:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 15:02:14"}
+info: Performance Tick - RSS: 47MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 15:03:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 15:03:14"}
+info: Performance Tick - RSS: 47MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 15:04:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 15:04:14"}
+info: Performance Tick - RSS: 47MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 15:05:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 15:05:14"}
+info: Performance Tick - RSS: 47MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 15:06:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 15:06:14"}
+info: Performance Tick - RSS: 47MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 15:07:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 15:07:14"}
+info: Performance Tick - RSS: 47MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 15:08:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 15:08:14"}
+info: Performance Tick - RSS: 47MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 15:09:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 15:09:14"}
+info: Performance Tick - RSS: 47MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 15:10:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 15:10:14"}
+info: Performance Tick - RSS: 47MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 15:11:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 15:11:14"}
+info: Performance Tick - RSS: 47MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 15:12:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 15:12:14"}
+info: Performance Tick - RSS: 47MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 15:13:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 15:13:14"}
+info: Performance Tick - RSS: 47MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 15:14:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 15:14:14"}
+info: Performance Tick - RSS: 47MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 15:15:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 15:15:14"}
+info: Performance Tick - RSS: 47MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 15:16:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 15:16:14"}
+info: Performance Tick - RSS: 47MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 15:17:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 15:17:14"}
+info: Performance Tick - RSS: 46MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 15:18:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 15:18:14"}
+info: Performance Tick - RSS: 47MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 15:19:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 15:19:14"}
+info: Performance Tick - RSS: 47MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 15:20:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 15:20:14"}
+info: Performance Tick - RSS: 48MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 15:21:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 15:21:14"}
+info: Performance Tick - RSS: 48MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 15:22:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 15:22:14"}
+info: Performance Tick - RSS: 48MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 15:23:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 15:23:14"}
+info: Performance Tick - RSS: 48MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 15:24:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 15:24:14"}
+info: Performance Tick - RSS: 48MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 15:25:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 15:25:14"}
+info: Performance Tick - RSS: 48MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 15:26:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 15:26:14"}
+info: Performance Tick - RSS: 48MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 15:27:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 15:27:14"}
+info: Performance Tick - RSS: 48MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 15:28:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 15:28:14"}
+info: Performance Tick - RSS: 48MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 15:29:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 15:29:14"}
+info: Performance Tick - RSS: 48MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 15:30:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 15:30:14"}
+info: Performance Tick - RSS: 48MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 15:31:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 15:31:14"}
+info: Performance Tick - RSS: 48MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 15:32:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 15:32:14"}
+info: Performance Tick - RSS: 48MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 15:33:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 15:33:14"}
+info: Performance Tick - RSS: 48MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 15:34:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 15:34:14"}
+info: Performance Tick - RSS: 48MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 15:35:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 15:35:14"}
+info: Performance Tick - RSS: 48MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 15:36:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 15:36:14"}
+info: Performance Tick - RSS: 48MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 15:37:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 15:37:14"}
+info: Performance Tick - RSS: 48MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 15:38:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 15:38:14"}
+info: Performance Tick - RSS: 48MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 15:39:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 15:39:14"}
+info: Performance Tick - RSS: 48MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 15:40:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 15:40:14"}
+info: Performance Tick - RSS: 48MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 15:41:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 15:41:14"}
+info: Performance Tick - RSS: 48MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 15:42:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 15:42:14"}
+info: Performance Tick - RSS: 49MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 15:43:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 15:43:14"}
+info: Performance Tick - RSS: 49MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 15:44:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 15:44:14"}
+info: Performance Tick - RSS: 49MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 15:45:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 15:45:14"}
+info: Performance Tick - RSS: 49MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 15:46:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 15:46:14"}
+info: Performance Tick - RSS: 49MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 15:47:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 15:47:14"}
+info: Performance Tick - RSS: 49MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 15:48:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 15:48:14"}
+info: Performance Tick - RSS: 49MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 15:49:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 15:49:14"}
+info: Performance Tick - RSS: 49MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 15:50:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 15:50:14"}
+info: Performance Tick - RSS: 49MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 15:51:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 15:51:14"}
+info: Performance Tick - RSS: 49MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 15:52:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 15:52:14"}
+info: Performance Tick - RSS: 49MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 15:53:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 15:53:14"}
+info: Performance Tick - RSS: 49MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 15:54:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 15:54:14"}
+info: Performance Tick - RSS: 49MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 15:55:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 15:55:14"}
+info: Performance Tick - RSS: 49MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 15:56:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 15:56:14"}
+info: Performance Tick - RSS: 49MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 15:57:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 15:57:14"}
+info: Performance Tick - RSS: 48MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 15:58:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 15:58:14"}
+info: Performance Tick - RSS: 48MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 15:59:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 15:59:14"}
+info: Performance Tick - RSS: 49MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 16:00:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 16:00:14"}
+info: Performance Tick - RSS: 49MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 16:01:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 16:01:14"}
+info: Performance Tick - RSS: 49MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 16:02:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 16:02:14"}
+info: Performance Tick - RSS: 48MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 16:03:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 16:03:14"}
+info: Performance Tick - RSS: 48MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 16:04:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 16:04:14"}
+info: Performance Tick - RSS: 48MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 16:05:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 16:05:14"}
+info: Performance Tick - RSS: 48MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 16:06:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 16:06:14"}
+info: Performance Tick - RSS: 48MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 16:07:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 16:07:14"}
+info: Performance Tick - RSS: 48MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 16:08:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 16:08:14"}
+info: Performance Tick - RSS: 48MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 16:09:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 16:09:14"}
+info: Performance Tick - RSS: 48MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 16:10:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 16:10:14"}
+info: Performance Tick - RSS: 48MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 16:11:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 16:11:14"}
+info: Performance Tick - RSS: 48MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 16:12:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 16:12:14"}
+info: Performance Tick - RSS: 46MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 16:13:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 16:13:14"}
+info: Performance Tick - RSS: 46MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 16:14:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 16:14:14"}
+info: Performance Tick - RSS: 46MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 16:15:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 16:15:14"}
+info: Performance Tick - RSS: 46MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 16:16:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 16:16:14"}
+info: Performance Tick - RSS: 46MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 16:17:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 16:17:14"}
+info: Performance Tick - RSS: 46MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 16:18:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 16:18:14"}
+info: Performance Tick - RSS: 46MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 16:19:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 16:19:14"}
+info: Performance Tick - RSS: 46MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 16:20:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 16:20:14"}
+info: Performance Tick - RSS: 46MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 16:21:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 16:21:14"}
+info: Performance Tick - RSS: 46MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 16:22:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 16:22:14"}
+info: Performance Tick - RSS: 46MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 16:23:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 16:23:14"}
+info: Performance Tick - RSS: 46MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 16:24:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 16:24:14"}
+info: Performance Tick - RSS: 46MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 16:25:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 16:25:14"}
+info: Performance Tick - RSS: 46MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 16:26:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 16:26:14"}
+info: Performance Tick - RSS: 47MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 16:27:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 16:27:14"}
+info: Performance Tick - RSS: 47MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 16:28:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 16:28:14"}
+info: Performance Tick - RSS: 47MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 16:29:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 16:29:14"}
+info: Performance Tick - RSS: 47MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 16:30:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 16:30:14"}
+info: Performance Tick - RSS: 47MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 16:31:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 16:31:14"}
+info: Performance Tick - RSS: 47MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 16:32:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 16:32:14"}
+info: Performance Tick - RSS: 47MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 16:33:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 16:33:14"}
+info: Performance Tick - RSS: 47MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 16:34:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 16:34:14"}
+info: Performance Tick - RSS: 47MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 16:35:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 16:35:14"}
+info: Performance Tick - RSS: 47MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 16:36:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 16:36:14"}
+info: Performance Tick - RSS: 47MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 16:37:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 16:37:14"}
+info: Performance Tick - RSS: 47MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 16:38:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 16:38:14"}
+info: Performance Tick - RSS: 55MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 16:39:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 16:39:14"}
+info: Performance Tick - RSS: 55MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 16:40:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 16:40:14"}
+info: Performance Tick - RSS: 55MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 16:41:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 16:41:14"}
+info: Performance Tick - RSS: 55MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 16:42:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 16:42:14"}
+info: Performance Tick - RSS: 55MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 16:43:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 16:43:14"}
+info: Performance Tick - RSS: 55MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 16:44:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 16:44:14"}
+info: Performance Tick - RSS: 55MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 16:45:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 16:45:14"}
+info: Performance Tick - RSS: 55MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 16:46:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 16:46:14"}
+info: Performance Tick - RSS: 55MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 16:47:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 16:47:14"}
+info: Performance Tick - RSS: 55MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 16:48:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 16:48:14"}
+info: Performance Tick - RSS: 55MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 16:49:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 16:49:14"}
+info: Performance Tick - RSS: 55MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 16:50:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 16:50:14"}
+info: Performance Tick - RSS: 55MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 16:51:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 16:51:14"}
+info: Performance Tick - RSS: 55MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 16:52:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 16:52:14"}
+info: Performance Tick - RSS: 55MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 16:53:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 16:53:14"}
+info: Performance Tick - RSS: 55MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 16:54:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 16:54:14"}
+info: Performance Tick - RSS: 55MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 16:55:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 16:55:14"}
+info: Performance Tick - RSS: 55MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 16:56:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 16:56:14"}
+info: Performance Tick - RSS: 55MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 16:57:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 16:57:14"}
+info: Performance Tick - RSS: 55MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 16:58:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 16:58:14"}
+info: Performance Tick - RSS: 55MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 16:59:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 16:59:14"}
+info: Performance Tick - RSS: 55MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 17:00:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 17:00:14"}
+info: Performance Tick - RSS: 55MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 17:01:14"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 17:01:14"}
+info: Performance Tick - RSS: 55MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 17:02:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 17:02:15"}
+info: Performance Tick - RSS: 55MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 17:03:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 17:03:15"}
+info: Performance Tick - RSS: 55MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 17:04:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 17:04:15"}
+info: Performance Tick - RSS: 55MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 17:05:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 17:05:15"}
+info: Performance Tick - RSS: 55MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 17:06:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 17:06:15"}
+info: Performance Tick - RSS: 55MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 17:07:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 17:07:15"}
+info: Performance Tick - RSS: 55MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 17:08:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 17:08:15"}
+info: Performance Tick - RSS: 55MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 17:09:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 17:09:15"}
+info: Performance Tick - RSS: 55MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 17:10:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 17:10:15"}
+info: Performance Tick - RSS: 55MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 17:11:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 17:11:15"}
+info: Performance Tick - RSS: 55MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 17:12:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 17:12:15"}
+info: Performance Tick - RSS: 55MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 17:13:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 17:13:15"}
+info: Performance Tick - RSS: 55MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 17:14:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 17:14:15"}
+info: Performance Tick - RSS: 55MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 17:15:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 17:15:15"}
+info: Performance Tick - RSS: 55MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 17:16:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 17:16:15"}
+info: Performance Tick - RSS: 55MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 17:17:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 17:17:15"}
+info: Performance Tick - RSS: 55MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 17:18:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 17:18:15"}
+info: Performance Tick - RSS: 55MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 17:19:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 17:19:15"}
+info: Performance Tick - RSS: 55MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 17:20:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 17:20:15"}
+info: Performance Tick - RSS: 55MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 17:21:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 17:21:15"}
+info: Performance Tick - RSS: 55MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 17:22:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 17:22:15"}
+info: Performance Tick - RSS: 55MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 17:23:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 17:23:15"}
+info: Performance Tick - RSS: 55MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 17:24:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 17:24:15"}
+info: Performance Tick - RSS: 55MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 17:25:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 17:25:15"}
+info: Performance Tick - RSS: 55MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 17:26:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 17:26:15"}
+info: Performance Tick - RSS: 55MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 17:27:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 17:27:15"}
+info: Performance Tick - RSS: 55MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 17:28:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 17:28:15"}
+info: Performance Tick - RSS: 55MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 17:29:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 17:29:15"}
+info: Performance Tick - RSS: 55MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 17:30:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 17:30:15"}
+info: Performance Tick - RSS: 55MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 17:31:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 17:31:15"}
+info: Performance Tick - RSS: 55MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 17:32:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 17:32:15"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 17:33:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 17:33:15"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 17:34:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 17:34:15"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 17:35:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 17:35:15"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 17:36:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 17:36:15"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 17:37:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 17:37:15"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 17:38:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 17:38:15"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 17:39:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 17:39:15"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 17:40:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 17:40:15"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 17:41:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 17:41:15"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 17:42:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 17:42:15"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 17:43:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 17:43:15"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 17:44:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 17:44:15"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 17:45:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 17:45:15"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 17:46:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 17:46:15"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 17:47:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 17:47:15"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 17:48:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 17:48:15"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 17:49:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 17:49:15"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 17:50:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 17:50:15"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 17:51:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 17:51:15"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 17:52:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 17:52:15"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 17:53:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 17:53:15"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 17:54:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 17:54:15"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 17:55:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 17:55:15"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 17:56:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 17:56:15"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 17:57:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 17:57:15"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 17:58:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 17:58:15"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 17:59:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 17:59:15"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 18:00:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 18:00:15"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 18:01:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 18:01:15"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 18:02:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 18:02:15"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 18:03:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 18:03:15"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 18:04:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 18:04:15"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 18:05:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 18:05:15"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 18:06:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 18:06:15"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 18:07:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 18:07:15"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 18:08:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 18:08:15"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 18:09:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 18:09:15"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 18:10:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 18:10:15"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 18:11:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 18:11:15"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 18:12:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 18:12:15"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 18:13:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 18:13:15"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 18:14:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 18:14:15"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 18:15:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 18:15:15"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 18:16:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 18:16:15"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 18:17:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 18:17:15"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 18:18:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 18:18:15"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 18:19:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 18:19:15"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 18:20:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 18:20:15"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 18:21:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 18:21:15"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 18:22:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 18:22:15"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 18:23:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 18:23:15"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 18:24:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 18:24:15"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 18:25:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 18:25:15"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 18:26:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 18:26:15"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 18:27:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 18:27:15"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 18:28:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 18:28:15"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 18:29:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 18:29:15"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 18:30:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 18:30:15"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 18:31:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 18:31:15"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 18:32:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 18:32:15"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 18:33:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 18:33:15"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 18:34:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 18:34:15"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 18:35:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 18:35:15"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 18:36:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 18:36:15"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 18:37:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 18:37:15"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 18:38:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 18:38:15"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 18:39:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 18:39:15"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 18:40:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 18:40:15"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 18:41:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 18:41:15"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 18:42:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 18:42:15"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 18:43:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 18:43:15"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 18:44:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 18:44:15"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 18:45:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 18:45:15"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 18:46:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 18:46:15"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 18:47:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 18:47:15"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 18:48:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 18:48:15"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 18:49:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 18:49:15"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 18:50:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 18:50:15"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 18:51:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 18:51:15"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 18:52:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 18:52:15"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 18:53:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 18:53:15"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 18:54:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 18:54:15"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 18:55:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 18:55:15"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 18:56:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 18:56:15"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 18:57:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 18:57:15"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 18:58:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 18:58:15"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 18:59:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 18:59:15"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 19:00:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 19:00:15"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 19:01:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 19:01:15"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 19:02:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 19:02:15"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 19:03:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 19:03:15"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 19:04:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 19:04:15"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 19:05:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 19:05:15"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 19:06:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 19:06:15"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 19:07:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 19:07:15"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 19:08:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 19:08:15"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 19:09:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 19:09:15"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 19:10:15"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 19:10:15"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 19:11:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 19:11:16"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 19:12:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 19:12:16"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 19:13:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 19:13:16"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 19:14:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 19:14:16"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 19:15:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 19:15:16"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 19:16:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 19:16:16"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 19:17:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 19:17:16"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 19:18:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 19:18:16"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 19:19:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 19:19:16"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 19:20:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 19:20:16"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 19:21:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 19:21:16"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 19:22:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 19:22:16"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 19:23:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 19:23:16"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 19:24:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 19:24:16"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 19:25:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 19:25:16"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 19:26:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 19:26:16"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 19:27:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 19:27:16"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 19:28:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 19:28:16"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 19:29:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 19:29:16"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 19:30:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 19:30:16"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 19:31:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 19:31:16"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 19:32:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 19:32:16"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 19:33:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 19:33:16"}
+info: Performance Tick - RSS: 55MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 19:34:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 19:34:16"}
+info: Performance Tick - RSS: 55MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 19:35:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 19:35:16"}
+info: Performance Tick - RSS: 55MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 19:36:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 19:36:16"}
+info: Performance Tick - RSS: 55MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 19:37:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 19:37:16"}
+info: Performance Tick - RSS: 55MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 19:38:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 19:38:16"}
+info: Performance Tick - RSS: 55MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 19:39:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 19:39:16"}
+info: Performance Tick - RSS: 55MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 19:40:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 19:40:16"}
+info: Performance Tick - RSS: 55MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 19:41:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 19:41:16"}
+info: Performance Tick - RSS: 55MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 19:42:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 19:42:16"}
+info: Performance Tick - RSS: 55MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 19:43:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 19:43:16"}
+info: Performance Tick - RSS: 55MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 19:44:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 19:44:16"}
+info: Performance Tick - RSS: 55MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 19:45:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 19:45:16"}
+info: Performance Tick - RSS: 55MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 19:46:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 19:46:16"}
+info: Performance Tick - RSS: 55MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 19:47:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 19:47:16"}
+info: Performance Tick - RSS: 55MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 19:48:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 19:48:16"}
+info: Performance Tick - RSS: 55MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 19:49:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 19:49:16"}
+info: Performance Tick - RSS: 55MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 19:50:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 19:50:16"}
+info: Performance Tick - RSS: 55MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 19:51:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 19:51:16"}
+info: Performance Tick - RSS: 55MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 19:52:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 19:52:16"}
+info: Performance Tick - RSS: 55MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 19:53:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 19:53:16"}
+info: Performance Tick - RSS: 55MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 19:54:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 19:54:16"}
+info: Performance Tick - RSS: 55MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 19:55:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 19:55:16"}
+info: Performance Tick - RSS: 55MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 19:56:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 19:56:16"}
+info: Performance Tick - RSS: 55MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 19:57:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 19:57:16"}
+info: Performance Tick - RSS: 55MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 19:58:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 19:58:16"}
+info: Performance Tick - RSS: 55MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 19:59:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 19:59:16"}
+info: Performance Tick - RSS: 55MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 20:00:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 20:00:16"}
+info: Performance Tick - RSS: 55MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 20:01:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 20:01:16"}
+info: Performance Tick - RSS: 55MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 20:02:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 20:02:16"}
+info: Performance Tick - RSS: 55MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 20:03:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 20:03:16"}
+info: Performance Tick - RSS: 55MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 20:04:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 20:04:16"}
+info: Performance Tick - RSS: 55MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 20:05:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 20:05:16"}
+info: Performance Tick - RSS: 55MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 20:06:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 20:06:16"}
+info: Performance Tick - RSS: 55MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 20:07:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 20:07:16"}
+info: Performance Tick - RSS: 55MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 20:08:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 20:08:16"}
+info: Performance Tick - RSS: 55MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 20:09:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 20:09:16"}
+info: Performance Tick - RSS: 55MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 20:10:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 20:10:16"}
+info: Performance Tick - RSS: 55MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 20:11:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 20:11:16"}
+info: Performance Tick - RSS: 55MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 20:12:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 20:12:16"}
+info: Performance Tick - RSS: 55MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 20:13:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 20:13:16"}
+info: Performance Tick - RSS: 55MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 20:14:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 20:14:16"}
+info: Performance Tick - RSS: 55MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 20:15:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 20:15:16"}
+info: Performance Tick - RSS: 56MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 20:16:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 20:16:16"}
+info: Performance Tick - RSS: 56MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 20:17:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 20:17:16"}
+info: Performance Tick - RSS: 56MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 20:18:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 20:18:16"}
+info: Performance Tick - RSS: 55MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 20:19:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 20:19:16"}
+info: Performance Tick - RSS: 55MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 20:20:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 20:20:16"}
+info: Performance Tick - RSS: 55MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 20:21:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 20:21:16"}
+info: Performance Tick - RSS: 55MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 20:22:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 20:22:16"}
+info: Performance Tick - RSS: 55MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 20:23:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 20:23:16"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 20:24:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 20:24:16"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 20:25:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 20:25:16"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 20:26:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 20:26:16"}
+info: Performance Tick - RSS: 55MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 20:27:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 20:27:16"}
+info: Performance Tick - RSS: 55MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 20:28:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 20:28:16"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 20:29:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 20:29:16"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 20:30:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 20:30:16"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 20:31:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 20:31:16"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 20:32:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 20:32:16"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 20:33:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 20:33:16"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 20:34:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 20:34:16"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 20:35:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 20:35:16"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 20:36:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 20:36:16"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 20:37:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 20:37:16"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 20:38:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 20:38:16"}
+info: Performance Tick - RSS: 53MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 20:39:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 20:39:16"}
+info: Performance Tick - RSS: 53MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 20:40:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 20:40:16"}
+info: Performance Tick - RSS: 53MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 20:41:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 20:41:16"}
+info: Performance Tick - RSS: 53MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 20:42:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 20:42:16"}
+info: Performance Tick - RSS: 53MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 20:43:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 20:43:16"}
+info: Performance Tick - RSS: 53MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 20:44:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 20:44:16"}
+info: Performance Tick - RSS: 53MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 20:45:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 20:45:16"}
+info: Performance Tick - RSS: 53MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 20:46:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 20:46:16"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 20:47:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 20:47:16"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 20:48:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 20:48:16"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 20:49:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 20:49:16"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 20:50:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 20:50:16"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 20:51:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 20:51:16"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 20:52:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 20:52:16"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 20:53:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 20:53:16"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 20:54:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 20:54:16"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 20:55:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 20:55:16"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 20:56:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 20:56:16"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 20:57:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 20:57:16"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 20:58:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 20:58:16"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 20:59:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 20:59:16"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 21:00:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 21:00:16"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 21:01:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 21:01:16"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 21:02:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 21:02:16"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 21:03:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 21:03:16"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 21:04:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 21:04:16"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 21:05:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 21:05:16"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 21:06:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 21:06:16"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 21:07:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 21:07:16"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 21:08:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 21:08:16"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 21:09:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 21:09:16"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 21:10:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 21:10:16"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 21:11:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 21:11:16"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 21:12:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 21:12:16"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 21:13:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 21:13:16"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 21:14:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 21:14:16"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 21:15:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 21:15:16"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 21:16:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 21:16:16"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 21:17:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 21:17:16"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 21:18:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 21:18:16"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 21:19:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 21:19:16"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 21:20:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 21:20:16"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 21:21:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 21:21:16"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 21:22:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 21:22:16"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 21:23:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 21:23:16"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 21:24:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 21:24:16"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 21:25:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 21:25:16"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 21:26:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 21:26:16"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 21:27:16"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 21:27:16"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 21:28:17"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 21:28:17"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 21:29:17"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 21:29:17"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 21:30:17"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 21:30:17"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 21:31:17"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 21:31:17"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 21:32:17"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 21:32:17"}
+info: Performance Tick - RSS: 54MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 21:33:17"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 21:33:17"}
+info: Performance Tick - RSS: 53MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 21:34:17"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 21:34:17"}
+info: Performance Tick - RSS: 53MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 21:35:17"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 21:35:17"}
+info: Performance Tick - RSS: 53MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 21:36:17"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 21:36:17"}
+info: Performance Tick - RSS: 53MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 21:37:17"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 21:37:17"}
+info: Performance Tick - RSS: 53MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 21:38:17"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 21:38:17"}
+info: Performance Tick - RSS: 53MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 21:39:17"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 21:39:17"}
+info: Performance Tick - RSS: 53MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 21:40:17"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 21:40:17"}
+info: Performance Tick - RSS: 53MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 21:41:17"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 21:41:17"}
+info: Performance Tick - RSS: 53MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 21:42:17"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 21:42:17"}
+info: Performance Tick - RSS: 53MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 21:43:17"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 21:43:17"}
+info: Performance Tick - RSS: 53MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 21:44:17"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 21:44:17"}
+info: Performance Tick - RSS: 53MB | Rooms: 0 | Players: 0 {"timestamp":"2026-08-06 21:45:17"}
+error: Cache flush failed: Error: SQLITE_ERROR: no such column: score {"timestamp":"2026-08-06 21:45:17"}

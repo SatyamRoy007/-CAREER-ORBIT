@@ -1,0 +1,28 @@
+{
+  "sources": [
+    {
+      "id": "remotive",
+      "name": "Remotive",
+      "version": "1.0.0",
+      "enabled": true,
+      "priority": 1,
+      "capabilities": ["publicApi", "search"]
+    },
+    {
+      "id": "arbeitnow",
+      "name": "Arbeitnow",
+      "version": "1.0.0",
+      "enabled": true,
+      "priority": 2,
+      "capabilities": ["publicApi", "search"]
+    },
+    {
+      "id": "jobicy",
+      "name": "Jobicy",
+      "version": "1.0.0",
+      "enabled": true,
+      "priority": 3,
+      "capabilities": ["publicApi", "search"]
+    }
+  ]
+}

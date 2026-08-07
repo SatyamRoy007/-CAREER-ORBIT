@@ -1,0 +1,1558 @@
+
+> career-orbit@1.0.0 dev
+> concurrently -k "npm:dev:api" "npm:dev:web"
+
+[dev:api] 
+[dev:api] > career-orbit@1.0.0 dev:api
+[dev:api] > node server/index.mjs
+[dev:api] 
+[dev:web] 
+[dev:web] > career-orbit@1.0.0 dev:web
+[dev:web] > vite --configLoader runner
+[dev:web] 
+[dev:web] 
+[dev:web]   VITE v6.4.3  ready in 847 ms
+[dev:web] 
+[dev:web]   ➜  Local:   http://localhost:5173/
+[dev:web]   ➜  Network: use --host to expose
+[dev:api] Career Orbit API listening on http://localhost:8788
+[dev:api] 
+[dev:api] Job: Sales Jedi at Creative Force
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 13, Location: 50, Experience: 75
+[dev:api] Final Score: 41
+[dev:api] 
+[dev:api] Job: SaaS Product Support Jedi at Creative Force
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 38, Location: 50, Experience: 75
+[dev:api] Final Score: 49
+[dev:api] 
+[dev:api] Job: Freelance Writer at IAPWE
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 0, Location: 50, Experience: 75
+[dev:api] Final Score: 38
+[dev:api] 
+[dev:api] Job: Freelance Copywriter at Coalition Technologies
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 13, Location: 50, Experience: 75
+[dev:api] Final Score: 41
+[dev:api] 
+[dev:api] Job: Senior Graphic Designer at Lemon.io
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 63, Location: 50, Experience: 75
+[dev:api] Final Score: 56
+[dev:api] 
+[dev:api] Job: Data Labeling Specialists at Workada
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 13, Location: 50, Experience: 75
+[dev:api] Final Score: 41
+[dev:api] 
+[dev:api] Job: Business Development Representative at Outsite
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 0, Location: 50, Experience: 75
+[dev:api] Final Score: 38
+[dev:api] 
+[dev:api] Job: Content Reviewer - United States at TELUS Digital
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 25, Location: 50, Experience: 75
+[dev:api] Final Score: 45
+[dev:api] 
+[dev:api] Job: Product Sales Specialist - Pet Health (CST timezone) at Tribe Wellness
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 0, Location: 50, Experience: 75
+[dev:api] Final Score: 38
+[dev:api] 
+[dev:api] Job: Patient Care Specialist at STATLINX
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 0, Location: 50, Experience: 75
+[dev:api] Final Score: 38
+[dev:api] 
+[dev:api] Job: Senior Independent Software Developer at A.Team
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 0, Location: 50, Experience: 75
+[dev:api] Final Score: 38
+[dev:api] 
+[dev:api] Job: Senior Independent AI Engineer / Architect at A.Team
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 0, Location: 50, Experience: 75
+[dev:api] Final Score: 38
+[dev:api] 
+[dev:api] Job: Head of Marketing & Communications at garden3d
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 13, Location: 50, Experience: 75
+[dev:api] Final Score: 41
+[dev:api] 
+[dev:api] Job: Tech Lead Full-Stack Rails Engineer at Mitre Media
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 50, Location: 50, Experience: 75
+[dev:api] Final Score: 53
+[dev:api] 
+[dev:api] Job: Senior DevOps Engineer at Lemon.io
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 63, Location: 50, Experience: 75
+[dev:api] Final Score: 56
+[dev:api] 
+[dev:api] Job: Senior Product Engineer (Fullstack) at Clipster
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 13, Location: 50, Experience: 75
+[dev:api] Final Score: 41
+[dev:api] 
+[dev:api] Job: Assistant Account Payable at The Obesity Society
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 0, Location: 50, Experience: 75
+[dev:api] Final Score: 38
+[dev:api] 
+[dev:api] Job: Remote Office Assistant at Coalition Technologies
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 25, Location: 50, Experience: 75
+[dev:api] Final Score: 45
+[dev:api] 
+[dev:api] Job: Staff Software Engineer, Product (Belo Horizonte) at LawnStarter
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 38, Location: 50, Experience: 75
+[dev:api] Final Score: 49
+[dev:api] 
+[dev:api] Job: Staff Software Engineer, Product (Montevideo) at LawnStarter
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 38, Location: 50, Experience: 75
+[dev:api] Final Score: 49
+[dev:api] 
+[dev:api] Job: Staff Software Engineer, Product (São Paulo) at LawnStarter
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 38, Location: 50, Experience: 75
+[dev:api] Final Score: 49
+[dev:api] 
+[dev:api] Job: Staff Software Engineer, Product (Mexico City) at LawnStarter
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 38, Location: 50, Experience: 75
+[dev:api] Final Score: 49
+[dev:api] 
+[dev:api] Job: Staff Software Engineer, Product (Campinas) at LawnStarter
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 38, Location: 50, Experience: 75
+[dev:api] Final Score: 49
+[dev:api] 
+[dev:api] Job: Staff Software Engineer, Product (Florianópolis) at LawnStarter
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 38, Location: 50, Experience: 75
+[dev:api] Final Score: 49
+[dev:api] 
+[dev:api] Job: Staff Product Engineer (Mexico City) at LawnStarter
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 38, Location: 50, Experience: 75
+[dev:api] Final Score: 49
+[dev:api] 
+[dev:api] Job: Staff Product Engineer (Montevideo) at LawnStarter
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 38, Location: 50, Experience: 75
+[dev:api] Final Score: 49
+[dev:api] 
+[dev:api] Job: Staff Product Engineer (Campinas) at LawnStarter
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 38, Location: 50, Experience: 75
+[dev:api] Final Score: 49
+[dev:api] 
+[dev:api] Job: Staff Product Engineer (Belo Horizonte) at LawnStarter
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 38, Location: 50, Experience: 75
+[dev:api] Final Score: 49
+[dev:api] 
+[dev:api] Job: Staff Product Engineer (Florianópolis) at LawnStarter
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 38, Location: 50, Experience: 75
+[dev:api] Final Score: 49
+[dev:api] 
+[dev:api] Job: Product Sales Specialist - Pet Health at Tribe Wellness
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 13, Location: 50, Experience: 75
+[dev:api] Final Score: 41
+[dev:api] 
+[dev:api] Job: Inside Sales Contractor at Credit Wellness, LLC
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 13, Location: 50, Experience: 75
+[dev:api] Final Score: 41
+[dev:api] 
+[dev:api] Job: High-Ticket Financial Sales Specialist & Team Lead Track at FSE LLC
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 0, Location: 50, Experience: 75
+[dev:api] Final Score: 38
+[dev:api] 
+[dev:api] Job: Online Data Analyst Canada (French Language) (C) at TELUS Digital
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 25, Location: 50, Experience: 75
+[dev:api] Final Score: 45
+[dev:api] 
+[dev:api] Job: Quality Testing Engineer (m/w/d) at MoPla Solutions GmbH
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 25, Location: 50, Experience: 75
+[dev:api] Final Score: 45
+[dev:api] 
+[dev:api] Job: Product Designer Intern at Cloud Studios
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 13, Location: 50, Experience: 75
+[dev:api] Final Score: 41
+[dev:api] 
+[dev:api] Job: Shopware Entwickler Fullstack (m/w/d) at Aurivian GmbH
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 38, Location: 50, Experience: 75
+[dev:api] Final Score: 49
+[dev:api] 
+[dev:api] Job: (Senior) GenAI Engineer at capco
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 38, Location: 50, Experience: 75
+[dev:api] Final Score: 49
+[dev:api] 
+[dev:api] Job: Senior Product Manager, Redis Core (Document Database) - Product Management - Germany at Redis
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 0, Location: 50, Experience: 75
+[dev:api] Final Score: 38
+[dev:api] 
+[dev:api] Job: Senior Analytics Engineer (f/m/x) - Enpal Energy at Enpal
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 25, Location: 50, Experience: 75
+[dev:api] Final Score: 45
+[dev:api] 
+[dev:api] Job: Copy of Staff / Principal Applied AI Researcher (Agentic Search) at Nebius
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 13, Location: 50, Experience: 75
+[dev:api] Final Score: 41
+[dev:api] 
+[dev:api] Job: Senior Software Engineer, Embedded UI at Roku
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 50, Location: 50, Experience: 75
+[dev:api] Final Score: 53
+[dev:api] 
+[dev:api] Job: Senior Technical Support Engineer at Digitalassetcorp
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 38, Location: 50, Experience: 75
+[dev:api] Final Score: 49
+[dev:api] 
+[dev:api] Job: Head of Data Operations at Multiverse
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 0, Location: 50, Experience: 75
+[dev:api] Final Score: 38
+[dev:api] 
+[dev:api] Job: Staff Backend Engineer - Grafana App Platform | UK | Remote at grafanalabs
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 0, Location: 50, Experience: 75
+[dev:api] Final Score: 38
+[dev:api] 
+[dev:api] Job: Software Engineer - Platform Productivity | United Kingdom | Remote at grafanalabs
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 13, Location: 50, Experience: 75
+[dev:api] Final Score: 41
+[dev:api] 
+[dev:api] Job: Senior Software Engineer - k6 Core | USA, EST only | Remote at grafanalabs
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 38, Location: 50, Experience: 75
+[dev:api] Final Score: 49
+[dev:api] 
+[dev:api] Job: Senior Software Engineer - k6 Core | United Kingdom | Remote at grafanalabs
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 38, Location: 50, Experience: 75
+[dev:api] Final Score: 49
+[dev:api] 
+[dev:api] Job: Senior Platform Engineer - Platform Metal | UK | Remote at grafanalabs
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 25, Location: 50, Experience: 75
+[dev:api] Final Score: 45
+[dev:api] 
+[dev:api] Job: Engineering Manager at prolific
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 50, Location: 50, Experience: 75
+[dev:api] Final Score: 53
+[dev:api] 
+[dev:api] Job: Staff Machine Learning Engineer (TLM), Driver Understanding and Evaluation at Waymo
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 0, Location: 50, Experience: 75
+[dev:api] Final Score: 38
+[dev:api] 
+[dev:api] Job: Staff Machine Learning Engineer, Simulation at Waymo
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 13, Location: 50, Experience: 75
+[dev:api] Final Score: 41
+[dev:api] 
+[dev:api] Job: Staff Machine Learning Engineer at Waymo
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 13, Location: 50, Experience: 75
+[dev:api] Final Score: 41
+[dev:api] 
+[dev:api] Job: Staff Machine Learning Engineer at Waymo
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 13, Location: 50, Experience: 75
+[dev:api] Final Score: 41
+[dev:api] 
+[dev:api] Job: Machine Learning Engineer at Waymo
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 13, Location: 50, Experience: 75
+[dev:api] Final Score: 41
+[dev:api] 
+[dev:api] Job: Senior Frontend Engineer, Marketing Website at Synthesia
+[dev:api] Status: Accepted
+[dev:api] Role: 100, Skills: 25, Location: 50, Experience: 75
+[dev:api] Final Score: 65
+[dev:api] 
+[dev:api] Job: AEM Backend Developer - Senior at Jobgether
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 38, Location: 50, Experience: 75
+[dev:api] Final Score: 49
+[dev:api] 
+[dev:api] Job: Software Engineer, Infrastructure at notion
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 0, Location: 50, Experience: 75
+[dev:api] Final Score: 38
+[dev:api] 
+[dev:api] Job: Software Engineer, Developer Experience at notion
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 13, Location: 50, Experience: 75
+[dev:api] Final Score: 41
+[dev:api] 
+[dev:api] Job: Business Development Manager, Product & Platform at notion
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 0, Location: 50, Experience: 75
+[dev:api] Final Score: 38
+[dev:api] 
+[dev:api] Job: Software Engineer, AI Workflows at notion
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 38, Location: 50, Experience: 75
+[dev:api] Final Score: 49
+[dev:api] 
+[dev:api] Job: Software Engineer, AI Capture at notion
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 0, Location: 50, Experience: 75
+[dev:api] Final Score: 38
+[dev:api] 
+[dev:api] Job: Software Engineer, Collections Experience at notion
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 13, Location: 50, Experience: 75
+[dev:api] Final Score: 41
+[dev:api] 
+[dev:api] Job: Enterprise Technical Support Engineer at notion
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 38, Location: 50, Experience: 75
+[dev:api] Final Score: 49
+[dev:api] 
+[dev:api] Job: Software Engineer, Trust at notion
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 38, Location: 50, Experience: 75
+[dev:api] Final Score: 49
+[dev:api] 
+[dev:api] Job: Software Engineer, Product Analytics Platform at notion
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 25, Location: 50, Experience: 75
+[dev:api] Final Score: 45
+[dev:api] 
+[dev:api] Job: Software Engineer, Early Career (AI) at notion
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 38, Location: 50, Experience: 75
+[dev:api] Final Score: 49
+[dev:api] 
+[dev:api] Job: Developer Advocate at notion
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 0, Location: 50, Experience: 75
+[dev:api] Final Score: 38
+[dev:api] 
+[dev:api] Job: Software Engineer, Web Infrastructure at notion
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 13, Location: 50, Experience: 75
+[dev:api] Final Score: 41
+[dev:api] 
+[dev:api] Job: Security Engineer, Corporate Security at notion
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 13, Location: 50, Experience: 75
+[dev:api] Final Score: 41
+[dev:api] 
+[dev:api] Job: Software Engineer, AI Security at notion
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 0, Location: 50, Experience: 75
+[dev:api] Final Score: 38
+[dev:api] 
+[dev:api] Job: Software Engineer, Developer Experience (Go Lead) at notion
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 13, Location: 50, Experience: 75
+[dev:api] Final Score: 41
+[dev:api] 
+[dev:api] Job: Country Manager, Taiwan at notion
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 0, Location: 50, Experience: 75
+[dev:api] Final Score: 38
+[dev:api] 
+[dev:api] Job: Software Engineer, Early Career at notion
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 38, Location: 50, Experience: 75
+[dev:api] Final Score: 49
+[dev:api] 
+[dev:api] Job: Country Manager, Italy at notion
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 0, Location: 50, Experience: 75
+[dev:api] Final Score: 38
+[dev:api] 
+[dev:api] Job: Country Manager, Spain at notion
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 0, Location: 50, Experience: 75
+[dev:api] Final Score: 38
+[dev:api] 
+[dev:api] Job: Business Systems Analyst at notion
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 0, Location: 50, Experience: 75
+[dev:api] Final Score: 38
+[dev:api] 
+[dev:api] Job: Forward Deployed Architect, Japan at notion
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 0, Location: 50, Experience: 75
+[dev:api] Final Score: 38
+[dev:api] 
+[dev:api] Job: Sales Jedi at Creative Force
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 13, Location: 50, Experience: 75
+[dev:api] Final Score: 41
+[dev:api] 
+[dev:api] Job: SaaS Product Support Jedi at Creative Force
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 38, Location: 50, Experience: 75
+[dev:api] Final Score: 49
+[dev:api] 
+[dev:api] Job: Freelance Writer at IAPWE
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 0, Location: 50, Experience: 75
+[dev:api] Final Score: 38
+[dev:api] 
+[dev:api] Job: Freelance Copywriter at Coalition Technologies
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 13, Location: 50, Experience: 75
+[dev:api] Final Score: 41
+[dev:api] 
+[dev:api] Job: Senior Graphic Designer at Lemon.io
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 63, Location: 50, Experience: 75
+[dev:api] Final Score: 56
+[dev:api] 
+[dev:api] Job: Data Labeling Specialists at Workada
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 13, Location: 50, Experience: 75
+[dev:api] Final Score: 41
+[dev:api] 
+[dev:api] Job: Business Development Representative at Outsite
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 0, Location: 50, Experience: 75
+[dev:api] Final Score: 38
+[dev:api] 
+[dev:api] Job: Content Reviewer - United States at TELUS Digital
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 25, Location: 50, Experience: 75
+[dev:api] Final Score: 45
+[dev:api] 
+[dev:api] Job: Product Sales Specialist - Pet Health (CST timezone) at Tribe Wellness
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 0, Location: 50, Experience: 75
+[dev:api] Final Score: 38
+[dev:api] 
+[dev:api] Job: Patient Care Specialist at STATLINX
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 0, Location: 50, Experience: 75
+[dev:api] Final Score: 38
+[dev:api] 
+[dev:api] Job: Senior Independent Software Developer at A.Team
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 0, Location: 50, Experience: 75
+[dev:api] Final Score: 38
+[dev:api] 
+[dev:api] Job: Senior Independent AI Engineer / Architect at A.Team
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 0, Location: 50, Experience: 75
+[dev:api] Final Score: 38
+[dev:api] 
+[dev:api] Job: Head of Marketing & Communications at garden3d
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 13, Location: 50, Experience: 75
+[dev:api] Final Score: 41
+[dev:api] 
+[dev:api] Job: Tech Lead Full-Stack Rails Engineer at Mitre Media
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 50, Location: 50, Experience: 75
+[dev:api] Final Score: 53
+[dev:api] 
+[dev:api] Job: Senior DevOps Engineer at Lemon.io
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 63, Location: 50, Experience: 75
+[dev:api] Final Score: 56
+[dev:api] 
+[dev:api] Job: Senior Product Engineer (Fullstack) at Clipster
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 13, Location: 50, Experience: 75
+[dev:api] Final Score: 41
+[dev:api] 
+[dev:api] Job: Assistant Account Payable at The Obesity Society
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 0, Location: 50, Experience: 75
+[dev:api] Final Score: 38
+[dev:api] 
+[dev:api] Job: Remote Office Assistant at Coalition Technologies
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 25, Location: 50, Experience: 75
+[dev:api] Final Score: 45
+[dev:api] 
+[dev:api] Job: Staff Software Engineer, Product (Belo Horizonte) at LawnStarter
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 38, Location: 50, Experience: 75
+[dev:api] Final Score: 49
+[dev:api] 
+[dev:api] Job: Staff Software Engineer, Product (Montevideo) at LawnStarter
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 38, Location: 50, Experience: 75
+[dev:api] Final Score: 49
+[dev:api] 
+[dev:api] Job: Staff Software Engineer, Product (São Paulo) at LawnStarter
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 38, Location: 50, Experience: 75
+[dev:api] Final Score: 49
+[dev:api] 
+[dev:api] Job: Staff Software Engineer, Product (Mexico City) at LawnStarter
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 38, Location: 50, Experience: 75
+[dev:api] Final Score: 49
+[dev:api] 
+[dev:api] Job: Staff Software Engineer, Product (Campinas) at LawnStarter
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 38, Location: 50, Experience: 75
+[dev:api] Final Score: 49
+[dev:api] 
+[dev:api] Job: Staff Software Engineer, Product (Florianópolis) at LawnStarter
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 38, Location: 50, Experience: 75
+[dev:api] Final Score: 49
+[dev:api] 
+[dev:api] Job: Staff Product Engineer (Mexico City) at LawnStarter
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 38, Location: 50, Experience: 75
+[dev:api] Final Score: 49
+[dev:api] 
+[dev:api] Job: Staff Product Engineer (Montevideo) at LawnStarter
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 38, Location: 50, Experience: 75
+[dev:api] Final Score: 49
+[dev:api] 
+[dev:api] Job: Staff Product Engineer (Campinas) at LawnStarter
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 38, Location: 50, Experience: 75
+[dev:api] Final Score: 49
+[dev:api] 
+[dev:api] Job: Staff Product Engineer (Belo Horizonte) at LawnStarter
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 38, Location: 50, Experience: 75
+[dev:api] Final Score: 49
+[dev:api] 
+[dev:api] Job: Staff Product Engineer (Florianópolis) at LawnStarter
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 38, Location: 50, Experience: 75
+[dev:api] Final Score: 49
+[dev:api] 
+[dev:api] Job: Product Sales Specialist - Pet Health at Tribe Wellness
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 13, Location: 50, Experience: 75
+[dev:api] Final Score: 41
+[dev:api] 
+[dev:api] Job: Inside Sales Contractor at Credit Wellness, LLC
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 13, Location: 50, Experience: 75
+[dev:api] Final Score: 41
+[dev:api] 
+[dev:api] Job: High-Ticket Financial Sales Specialist & Team Lead Track at FSE LLC
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 0, Location: 50, Experience: 75
+[dev:api] Final Score: 38
+[dev:api] 
+[dev:api] Job: Online Data Analyst Canada (French Language) (C) at TELUS Digital
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 25, Location: 50, Experience: 75
+[dev:api] Final Score: 45
+[dev:api] 
+[dev:api] Job: Quality Testing Engineer (m/w/d) at MoPla Solutions GmbH
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 25, Location: 50, Experience: 75
+[dev:api] Final Score: 45
+[dev:api] 
+[dev:api] Job: Product Designer Intern at Cloud Studios
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 13, Location: 50, Experience: 75
+[dev:api] Final Score: 41
+[dev:api] 
+[dev:api] Job: Shopware Entwickler Fullstack (m/w/d) at Aurivian GmbH
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 38, Location: 50, Experience: 75
+[dev:api] Final Score: 49
+[dev:api] 
+[dev:api] Job: (Senior) GenAI Engineer at capco
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 38, Location: 50, Experience: 75
+[dev:api] Final Score: 49
+[dev:api] 
+[dev:api] Job: Senior Product Manager, Redis Core (Document Database) - Product Management - Germany at Redis
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 0, Location: 50, Experience: 75
+[dev:api] Final Score: 38
+[dev:api] 
+[dev:api] Job: Senior Analytics Engineer (f/m/x) - Enpal Energy at Enpal
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 25, Location: 50, Experience: 75
+[dev:api] Final Score: 45
+[dev:api] 
+[dev:api] Job: Copy of Staff / Principal Applied AI Researcher (Agentic Search) at Nebius
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 13, Location: 50, Experience: 75
+[dev:api] Final Score: 41
+[dev:api] 
+[dev:api] Job: Senior Software Engineer, Embedded UI at Roku
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 50, Location: 50, Experience: 75
+[dev:api] Final Score: 53
+[dev:api] 
+[dev:api] Job: Senior Technical Support Engineer at Digitalassetcorp
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 38, Location: 50, Experience: 75
+[dev:api] Final Score: 49
+[dev:api] 
+[dev:api] Job: Head of Data Operations at Multiverse
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 0, Location: 50, Experience: 75
+[dev:api] Final Score: 38
+[dev:api] 
+[dev:api] Job: Staff Backend Engineer - Grafana App Platform | UK | Remote at grafanalabs
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 0, Location: 50, Experience: 75
+[dev:api] Final Score: 38
+[dev:api] 
+[dev:api] Job: Software Engineer - Platform Productivity | United Kingdom | Remote at grafanalabs
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 13, Location: 50, Experience: 75
+[dev:api] Final Score: 41
+[dev:api] 
+[dev:api] Job: Senior Software Engineer - k6 Core | USA, EST only | Remote at grafanalabs
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 38, Location: 50, Experience: 75
+[dev:api] Final Score: 49
+[dev:api] 
+[dev:api] Job: Senior Software Engineer - k6 Core | United Kingdom | Remote at grafanalabs
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 38, Location: 50, Experience: 75
+[dev:api] Final Score: 49
+[dev:api] 
+[dev:api] Job: Senior Platform Engineer - Platform Metal | UK | Remote at grafanalabs
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 25, Location: 50, Experience: 75
+[dev:api] Final Score: 45
+[dev:api] 
+[dev:api] Job: Engineering Manager at prolific
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 50, Location: 50, Experience: 75
+[dev:api] Final Score: 53
+[dev:api] 
+[dev:api] Job: Staff Machine Learning Engineer (TLM), Driver Understanding and Evaluation at Waymo
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 0, Location: 50, Experience: 75
+[dev:api] Final Score: 38
+[dev:api] 
+[dev:api] Job: Staff Machine Learning Engineer, Simulation at Waymo
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 13, Location: 50, Experience: 75
+[dev:api] Final Score: 41
+[dev:api] 
+[dev:api] Job: Staff Machine Learning Engineer at Waymo
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 13, Location: 50, Experience: 75
+[dev:api] Final Score: 41
+[dev:api] 
+[dev:api] Job: Staff Machine Learning Engineer at Waymo
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 13, Location: 50, Experience: 75
+[dev:api] Final Score: 41
+[dev:api] 
+[dev:api] Job: Machine Learning Engineer at Waymo
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 13, Location: 50, Experience: 75
+[dev:api] Final Score: 41
+[dev:api] 
+[dev:api] Job: Senior Frontend Engineer, Marketing Website at Synthesia
+[dev:api] Status: Accepted
+[dev:api] Role: 100, Skills: 25, Location: 50, Experience: 75
+[dev:api] Final Score: 65
+[dev:api] 
+[dev:api] Job: AEM Backend Developer - Senior at Jobgether
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 38, Location: 50, Experience: 75
+[dev:api] Final Score: 49
+[dev:api] 
+[dev:api] Job: Software Engineer, Infrastructure at notion
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 0, Location: 50, Experience: 75
+[dev:api] Final Score: 38
+[dev:api] 
+[dev:api] Job: Software Engineer, Developer Experience at notion
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 13, Location: 50, Experience: 75
+[dev:api] Final Score: 41
+[dev:api] 
+[dev:api] Job: Business Development Manager, Product & Platform at notion
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 0, Location: 50, Experience: 75
+[dev:api] Final Score: 38
+[dev:api] 
+[dev:api] Job: Software Engineer, AI Workflows at notion
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 38, Location: 50, Experience: 75
+[dev:api] Final Score: 49
+[dev:api] 
+[dev:api] Job: Software Engineer, AI Capture at notion
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 0, Location: 50, Experience: 75
+[dev:api] Final Score: 38
+[dev:api] 
+[dev:api] Job: Software Engineer, Collections Experience at notion
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 13, Location: 50, Experience: 75
+[dev:api] Final Score: 41
+[dev:api] 
+[dev:api] Job: Enterprise Technical Support Engineer at notion
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 38, Location: 50, Experience: 75
+[dev:api] Final Score: 49
+[dev:api] 
+[dev:api] Job: Software Engineer, Trust at notion
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 38, Location: 50, Experience: 75
+[dev:api] Final Score: 49
+[dev:api] 
+[dev:api] Job: Software Engineer, Product Analytics Platform at notion
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 25, Location: 50, Experience: 75
+[dev:api] Final Score: 45
+[dev:api] 
+[dev:api] Job: Software Engineer, Early Career (AI) at notion
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 38, Location: 50, Experience: 75
+[dev:api] Final Score: 49
+[dev:api] 
+[dev:api] Job: Developer Advocate at notion
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 0, Location: 50, Experience: 75
+[dev:api] Final Score: 38
+[dev:api] 
+[dev:api] Job: Software Engineer, Web Infrastructure at notion
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 13, Location: 50, Experience: 75
+[dev:api] Final Score: 41
+[dev:api] 
+[dev:api] Job: Security Engineer, Corporate Security at notion
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 13, Location: 50, Experience: 75
+[dev:api] Final Score: 41
+[dev:api] 
+[dev:api] Job: Software Engineer, AI Security at notion
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 0, Location: 50, Experience: 75
+[dev:api] Final Score: 38
+[dev:api] 
+[dev:api] Job: Software Engineer, Developer Experience (Go Lead) at notion
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 13, Location: 50, Experience: 75
+[dev:api] Final Score: 41
+[dev:api] 
+[dev:api] Job: Country Manager, Taiwan at notion
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 0, Location: 50, Experience: 75
+[dev:api] Final Score: 38
+[dev:api] 
+[dev:api] Job: Software Engineer, Early Career at notion
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 38, Location: 50, Experience: 75
+[dev:api] Final Score: 49
+[dev:api] 
+[dev:api] Job: Country Manager, Italy at notion
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 0, Location: 50, Experience: 75
+[dev:api] Final Score: 38
+[dev:api] 
+[dev:api] Job: Country Manager, Spain at notion
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 0, Location: 50, Experience: 75
+[dev:api] Final Score: 38
+[dev:api] 
+[dev:api] Job: Business Systems Analyst at notion
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 0, Location: 50, Experience: 75
+[dev:api] Final Score: 38
+[dev:api] 
+[dev:api] Job: Forward Deployed Architect, Japan at notion
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 0, Location: 50, Experience: 75
+[dev:api] Final Score: 38
+[dev:api] 
+[dev:api] Job: Sales Jedi at Creative Force
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 13, Location: 50, Experience: 75
+[dev:api] Final Score: 41
+[dev:api] 
+[dev:api] Job: SaaS Product Support Jedi at Creative Force
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 38, Location: 50, Experience: 75
+[dev:api] Final Score: 49
+[dev:api] 
+[dev:api] Job: Freelance Writer at IAPWE
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 0, Location: 50, Experience: 75
+[dev:api] Final Score: 38
+[dev:api] 
+[dev:api] Job: Freelance Copywriter at Coalition Technologies
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 13, Location: 50, Experience: 75
+[dev:api] Final Score: 41
+[dev:api] 
+[dev:api] Job: Senior Graphic Designer at Lemon.io
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 63, Location: 50, Experience: 75
+[dev:api] Final Score: 56
+[dev:api] 
+[dev:api] Job: Data Labeling Specialists at Workada
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 13, Location: 50, Experience: 75
+[dev:api] Final Score: 41
+[dev:api] 
+[dev:api] Job: Business Development Representative at Outsite
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 0, Location: 50, Experience: 75
+[dev:api] Final Score: 38
+[dev:api] 
+[dev:api] Job: Content Reviewer - United States at TELUS Digital
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 25, Location: 50, Experience: 75
+[dev:api] Final Score: 45
+[dev:api] 
+[dev:api] Job: Product Sales Specialist - Pet Health (CST timezone) at Tribe Wellness
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 0, Location: 50, Experience: 75
+[dev:api] Final Score: 38
+[dev:api] 
+[dev:api] Job: Patient Care Specialist at STATLINX
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 0, Location: 50, Experience: 75
+[dev:api] Final Score: 38
+[dev:api] 
+[dev:api] Job: Senior Independent Software Developer at A.Team
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 0, Location: 50, Experience: 75
+[dev:api] Final Score: 38
+[dev:api] 
+[dev:api] Job: Senior Independent AI Engineer / Architect at A.Team
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 0, Location: 50, Experience: 75
+[dev:api] Final Score: 38
+[dev:api] 
+[dev:api] Job: Head of Marketing & Communications at garden3d
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 13, Location: 50, Experience: 75
+[dev:api] Final Score: 41
+[dev:api] 
+[dev:api] Job: Tech Lead Full-Stack Rails Engineer at Mitre Media
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 50, Location: 50, Experience: 75
+[dev:api] Final Score: 53
+[dev:api] 
+[dev:api] Job: Senior DevOps Engineer at Lemon.io
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 63, Location: 50, Experience: 75
+[dev:api] Final Score: 56
+[dev:api] 
+[dev:api] Job: Senior Product Engineer (Fullstack) at Clipster
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 13, Location: 50, Experience: 75
+[dev:api] Final Score: 41
+[dev:api] 
+[dev:api] Job: Assistant Account Payable at The Obesity Society
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 0, Location: 50, Experience: 75
+[dev:api] Final Score: 38
+[dev:api] 
+[dev:api] Job: Remote Office Assistant at Coalition Technologies
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 25, Location: 50, Experience: 75
+[dev:api] Final Score: 45
+[dev:api] 
+[dev:api] Job: Staff Software Engineer, Product (Belo Horizonte) at LawnStarter
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 38, Location: 50, Experience: 75
+[dev:api] Final Score: 49
+[dev:api] 
+[dev:api] Job: Staff Software Engineer, Product (Montevideo) at LawnStarter
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 38, Location: 50, Experience: 75
+[dev:api] Final Score: 49
+[dev:api] 
+[dev:api] Job: Staff Software Engineer, Product (São Paulo) at LawnStarter
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 38, Location: 50, Experience: 75
+[dev:api] Final Score: 49
+[dev:api] 
+[dev:api] Job: Staff Software Engineer, Product (Mexico City) at LawnStarter
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 38, Location: 50, Experience: 75
+[dev:api] Final Score: 49
+[dev:api] 
+[dev:api] Job: Staff Software Engineer, Product (Campinas) at LawnStarter
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 38, Location: 50, Experience: 75
+[dev:api] Final Score: 49
+[dev:api] 
+[dev:api] Job: Staff Software Engineer, Product (Florianópolis) at LawnStarter
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 38, Location: 50, Experience: 75
+[dev:api] Final Score: 49
+[dev:api] 
+[dev:api] Job: Staff Product Engineer (Mexico City) at LawnStarter
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 38, Location: 50, Experience: 75
+[dev:api] Final Score: 49
+[dev:api] 
+[dev:api] Job: Staff Product Engineer (Montevideo) at LawnStarter
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 38, Location: 50, Experience: 75
+[dev:api] Final Score: 49
+[dev:api] 
+[dev:api] Job: Staff Product Engineer (Campinas) at LawnStarter
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 38, Location: 50, Experience: 75
+[dev:api] Final Score: 49
+[dev:api] 
+[dev:api] Job: Staff Product Engineer (Belo Horizonte) at LawnStarter
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 38, Location: 50, Experience: 75
+[dev:api] Final Score: 49
+[dev:api] 
+[dev:api] Job: Staff Product Engineer (Florianópolis) at LawnStarter
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 38, Location: 50, Experience: 75
+[dev:api] Final Score: 49
+[dev:api] 
+[dev:api] Job: Product Sales Specialist - Pet Health at Tribe Wellness
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 13, Location: 50, Experience: 75
+[dev:api] Final Score: 41
+[dev:api] 
+[dev:api] Job: Inside Sales Contractor at Credit Wellness, LLC
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 13, Location: 50, Experience: 75
+[dev:api] Final Score: 41
+[dev:api] 
+[dev:api] Job: High-Ticket Financial Sales Specialist & Team Lead Track at FSE LLC
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 0, Location: 50, Experience: 75
+[dev:api] Final Score: 38
+[dev:api] 
+[dev:api] Job: Online Data Analyst Canada (French Language) (C) at TELUS Digital
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 25, Location: 50, Experience: 75
+[dev:api] Final Score: 45
+[dev:api] 
+[dev:api] Job: Quality Testing Engineer (m/w/d) at MoPla Solutions GmbH
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 25, Location: 50, Experience: 75
+[dev:api] Final Score: 45
+[dev:api] 
+[dev:api] Job: Product Designer Intern at Cloud Studios
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 13, Location: 50, Experience: 75
+[dev:api] Final Score: 41
+[dev:api] 
+[dev:api] Job: Shopware Entwickler Fullstack (m/w/d) at Aurivian GmbH
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 38, Location: 50, Experience: 75
+[dev:api] Final Score: 49
+[dev:api] 
+[dev:api] Job: (Senior) GenAI Engineer at capco
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 38, Location: 50, Experience: 75
+[dev:api] Final Score: 49
+[dev:api] 
+[dev:api] Job: Senior Product Manager, Redis Core (Document Database) - Product Management - Germany at Redis
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 0, Location: 50, Experience: 75
+[dev:api] Final Score: 38
+[dev:api] 
+[dev:api] Job: Senior Analytics Engineer (f/m/x) - Enpal Energy at Enpal
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 25, Location: 50, Experience: 75
+[dev:api] Final Score: 45
+[dev:api] 
+[dev:api] Job: Copy of Staff / Principal Applied AI Researcher (Agentic Search) at Nebius
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 13, Location: 50, Experience: 75
+[dev:api] Final Score: 41
+[dev:api] 
+[dev:api] Job: Senior Software Engineer, Embedded UI at Roku
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 50, Location: 50, Experience: 75
+[dev:api] Final Score: 53
+[dev:api] 
+[dev:api] Job: Senior Technical Support Engineer at Digitalassetcorp
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 38, Location: 50, Experience: 75
+[dev:api] Final Score: 49
+[dev:api] 
+[dev:api] Job: Head of Data Operations at Multiverse
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 0, Location: 50, Experience: 75
+[dev:api] Final Score: 38
+[dev:api] 
+[dev:api] Job: Staff Backend Engineer - Grafana App Platform | UK | Remote at grafanalabs
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 0, Location: 50, Experience: 75
+[dev:api] Final Score: 38
+[dev:api] 
+[dev:api] Job: Software Engineer - Platform Productivity | United Kingdom | Remote at grafanalabs
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 13, Location: 50, Experience: 75
+[dev:api] Final Score: 41
+[dev:api] 
+[dev:api] Job: Senior Software Engineer - k6 Core | USA, EST only | Remote at grafanalabs
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 38, Location: 50, Experience: 75
+[dev:api] Final Score: 49
+[dev:api] 
+[dev:api] Job: Senior Software Engineer - k6 Core | United Kingdom | Remote at grafanalabs
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 38, Location: 50, Experience: 75
+[dev:api] Final Score: 49
+[dev:api] 
+[dev:api] Job: Senior Platform Engineer - Platform Metal | UK | Remote at grafanalabs
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 25, Location: 50, Experience: 75
+[dev:api] Final Score: 45
+[dev:api] 
+[dev:api] Job: Engineering Manager at prolific
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 50, Location: 50, Experience: 75
+[dev:api] Final Score: 53
+[dev:api] 
+[dev:api] Job: Staff Machine Learning Engineer (TLM), Driver Understanding and Evaluation at Waymo
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 0, Location: 50, Experience: 75
+[dev:api] Final Score: 38
+[dev:api] 
+[dev:api] Job: Staff Machine Learning Engineer, Simulation at Waymo
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 13, Location: 50, Experience: 75
+[dev:api] Final Score: 41
+[dev:api] 
+[dev:api] Job: Staff Machine Learning Engineer at Waymo
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 13, Location: 50, Experience: 75
+[dev:api] Final Score: 41
+[dev:api] 
+[dev:api] Job: Staff Machine Learning Engineer at Waymo
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 13, Location: 50, Experience: 75
+[dev:api] Final Score: 41
+[dev:api] 
+[dev:api] Job: Machine Learning Engineer at Waymo
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 13, Location: 50, Experience: 75
+[dev:api] Final Score: 41
+[dev:api] 
+[dev:api] Job: Senior Frontend Engineer, Marketing Website at Synthesia
+[dev:api] Status: Accepted
+[dev:api] Role: 100, Skills: 25, Location: 50, Experience: 75
+[dev:api] Final Score: 65
+[dev:api] 
+[dev:api] Job: AEM Backend Developer - Senior at Jobgether
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 38, Location: 50, Experience: 75
+[dev:api] Final Score: 49
+[dev:api] 
+[dev:api] Job: Software Engineer, Infrastructure at notion
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 0, Location: 50, Experience: 75
+[dev:api] Final Score: 38
+[dev:api] 
+[dev:api] Job: Software Engineer, Developer Experience at notion
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 13, Location: 50, Experience: 75
+[dev:api] Final Score: 41
+[dev:api] 
+[dev:api] Job: Business Development Manager, Product & Platform at notion
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 0, Location: 50, Experience: 75
+[dev:api] Final Score: 38
+[dev:api] 
+[dev:api] Job: Software Engineer, AI Workflows at notion
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 38, Location: 50, Experience: 75
+[dev:api] Final Score: 49
+[dev:api] 
+[dev:api] Job: Software Engineer, AI Capture at notion
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 0, Location: 50, Experience: 75
+[dev:api] Final Score: 38
+[dev:api] 
+[dev:api] Job: Software Engineer, Collections Experience at notion
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 13, Location: 50, Experience: 75
+[dev:api] Final Score: 41
+[dev:api] 
+[dev:api] Job: Enterprise Technical Support Engineer at notion
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 38, Location: 50, Experience: 75
+[dev:api] Final Score: 49
+[dev:api] 
+[dev:api] Job: Software Engineer, Trust at notion
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 38, Location: 50, Experience: 75
+[dev:api] Final Score: 49
+[dev:api] 
+[dev:api] Job: Software Engineer, Product Analytics Platform at notion
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 25, Location: 50, Experience: 75
+[dev:api] Final Score: 45
+[dev:api] 
+[dev:api] Job: Software Engineer, Early Career (AI) at notion
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 38, Location: 50, Experience: 75
+[dev:api] Final Score: 49
+[dev:api] 
+[dev:api] Job: Developer Advocate at notion
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 0, Location: 50, Experience: 75
+[dev:api] Final Score: 38
+[dev:api] 
+[dev:api] Job: Software Engineer, Web Infrastructure at notion
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 13, Location: 50, Experience: 75
+[dev:api] Final Score: 41
+[dev:api] 
+[dev:api] Job: Security Engineer, Corporate Security at notion
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 13, Location: 50, Experience: 75
+[dev:api] Final Score: 41
+[dev:api] 
+[dev:api] Job: Software Engineer, AI Security at notion
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 0, Location: 50, Experience: 75
+[dev:api] Final Score: 38
+[dev:api] 
+[dev:api] Job: Software Engineer, Developer Experience (Go Lead) at notion
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 13, Location: 50, Experience: 75
+[dev:api] Final Score: 41
+[dev:api] 
+[dev:api] Job: Country Manager, Taiwan at notion
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 0, Location: 50, Experience: 75
+[dev:api] Final Score: 38
+[dev:api] 
+[dev:api] Job: Software Engineer, Early Career at notion
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 38, Location: 50, Experience: 75
+[dev:api] Final Score: 49
+[dev:api] 
+[dev:api] Job: Country Manager, Italy at notion
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 0, Location: 50, Experience: 75
+[dev:api] Final Score: 38
+[dev:api] 
+[dev:api] Job: Country Manager, Spain at notion
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 0, Location: 50, Experience: 75
+[dev:api] Final Score: 38
+[dev:api] 
+[dev:api] Job: Business Systems Analyst at notion
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 0, Location: 50, Experience: 75
+[dev:api] Final Score: 38
+[dev:api] 
+[dev:api] Job: Forward Deployed Architect, Japan at notion
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 0, Location: 50, Experience: 75
+[dev:api] Final Score: 38
+[dev:api] 
+[dev:api] Job: Sales Jedi at Creative Force
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 13, Location: 50, Experience: 75
+[dev:api] Final Score: 41
+[dev:api] 
+[dev:api] Job: SaaS Product Support Jedi at Creative Force
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 38, Location: 50, Experience: 75
+[dev:api] Final Score: 49
+[dev:api] 
+[dev:api] Job: Freelance Writer at IAPWE
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 0, Location: 50, Experience: 75
+[dev:api] Final Score: 38
+[dev:api] 
+[dev:api] Job: Freelance Copywriter at Coalition Technologies
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 13, Location: 50, Experience: 75
+[dev:api] Final Score: 41
+[dev:api] 
+[dev:api] Job: Senior Graphic Designer at Lemon.io
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 63, Location: 50, Experience: 75
+[dev:api] Final Score: 56
+[dev:api] 
+[dev:api] Job: Data Labeling Specialists at Workada
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 13, Location: 50, Experience: 75
+[dev:api] Final Score: 41
+[dev:api] 
+[dev:api] Job: Business Development Representative at Outsite
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 0, Location: 50, Experience: 75
+[dev:api] Final Score: 38
+[dev:api] 
+[dev:api] Job: Content Reviewer - United States at TELUS Digital
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 25, Location: 50, Experience: 75
+[dev:api] Final Score: 45
+[dev:api] 
+[dev:api] Job: Product Sales Specialist - Pet Health (CST timezone) at Tribe Wellness
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 0, Location: 50, Experience: 75
+[dev:api] Final Score: 38
+[dev:api] 
+[dev:api] Job: Patient Care Specialist at STATLINX
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 0, Location: 50, Experience: 75
+[dev:api] Final Score: 38
+[dev:api] 
+[dev:api] Job: Senior Independent Software Developer at A.Team
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 0, Location: 50, Experience: 75
+[dev:api] Final Score: 38
+[dev:api] 
+[dev:api] Job: Senior Independent AI Engineer / Architect at A.Team
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 0, Location: 50, Experience: 75
+[dev:api] Final Score: 38
+[dev:api] 
+[dev:api] Job: Head of Marketing & Communications at garden3d
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 13, Location: 50, Experience: 75
+[dev:api] Final Score: 41
+[dev:api] 
+[dev:api] Job: Tech Lead Full-Stack Rails Engineer at Mitre Media
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 50, Location: 50, Experience: 75
+[dev:api] Final Score: 53
+[dev:api] 
+[dev:api] Job: Senior DevOps Engineer at Lemon.io
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 63, Location: 50, Experience: 75
+[dev:api] Final Score: 56
+[dev:api] 
+[dev:api] Job: Senior Product Engineer (Fullstack) at Clipster
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 13, Location: 50, Experience: 75
+[dev:api] Final Score: 41
+[dev:api] 
+[dev:api] Job: Assistant Account Payable at The Obesity Society
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 0, Location: 50, Experience: 75
+[dev:api] Final Score: 38
+[dev:api] 
+[dev:api] Job: Remote Office Assistant at Coalition Technologies
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 25, Location: 50, Experience: 75
+[dev:api] Final Score: 45
+[dev:api] 
+[dev:api] Job: Staff Software Engineer, Product (Belo Horizonte) at LawnStarter
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 38, Location: 50, Experience: 75
+[dev:api] Final Score: 49
+[dev:api] 
+[dev:api] Job: Staff Software Engineer, Product (Montevideo) at LawnStarter
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 38, Location: 50, Experience: 75
+[dev:api] Final Score: 49
+[dev:api] 
+[dev:api] Job: Staff Software Engineer, Product (São Paulo) at LawnStarter
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 38, Location: 50, Experience: 75
+[dev:api] Final Score: 49
+[dev:api] 
+[dev:api] Job: Staff Software Engineer, Product (Mexico City) at LawnStarter
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 38, Location: 50, Experience: 75
+[dev:api] Final Score: 49
+[dev:api] 
+[dev:api] Job: Staff Software Engineer, Product (Campinas) at LawnStarter
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 38, Location: 50, Experience: 75
+[dev:api] Final Score: 49
+[dev:api] 
+[dev:api] Job: Staff Software Engineer, Product (Florianópolis) at LawnStarter
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 38, Location: 50, Experience: 75
+[dev:api] Final Score: 49
+[dev:api] 
+[dev:api] Job: Staff Product Engineer (Mexico City) at LawnStarter
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 38, Location: 50, Experience: 75
+[dev:api] Final Score: 49
+[dev:api] 
+[dev:api] Job: Staff Product Engineer (Montevideo) at LawnStarter
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 38, Location: 50, Experience: 75
+[dev:api] Final Score: 49
+[dev:api] 
+[dev:api] Job: Staff Product Engineer (Campinas) at LawnStarter
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 38, Location: 50, Experience: 75
+[dev:api] Final Score: 49
+[dev:api] 
+[dev:api] Job: Staff Product Engineer (Belo Horizonte) at LawnStarter
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 38, Location: 50, Experience: 75
+[dev:api] Final Score: 49
+[dev:api] 
+[dev:api] Job: Staff Product Engineer (Florianópolis) at LawnStarter
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 38, Location: 50, Experience: 75
+[dev:api] Final Score: 49
+[dev:api] 
+[dev:api] Job: Product Sales Specialist - Pet Health at Tribe Wellness
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 13, Location: 50, Experience: 75
+[dev:api] Final Score: 41
+[dev:api] 
+[dev:api] Job: Inside Sales Contractor at Credit Wellness, LLC
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 13, Location: 50, Experience: 75
+[dev:api] Final Score: 41
+[dev:api] 
+[dev:api] Job: High-Ticket Financial Sales Specialist & Team Lead Track at FSE LLC
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 0, Location: 50, Experience: 75
+[dev:api] Final Score: 38
+[dev:api] 
+[dev:api] Job: Online Data Analyst Canada (French Language) (C) at TELUS Digital
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 25, Location: 50, Experience: 75
+[dev:api] Final Score: 45
+[dev:api] 
+[dev:api] Job: Quality Testing Engineer (m/w/d) at MoPla Solutions GmbH
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 25, Location: 50, Experience: 75
+[dev:api] Final Score: 45
+[dev:api] 
+[dev:api] Job: Product Designer Intern at Cloud Studios
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 13, Location: 50, Experience: 75
+[dev:api] Final Score: 41
+[dev:api] 
+[dev:api] Job: Shopware Entwickler Fullstack (m/w/d) at Aurivian GmbH
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 38, Location: 50, Experience: 75
+[dev:api] Final Score: 49
+[dev:api] 
+[dev:api] Job: (Senior) GenAI Engineer at capco
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 38, Location: 50, Experience: 75
+[dev:api] Final Score: 49
+[dev:api] 
+[dev:api] Job: Senior Product Manager, Redis Core (Document Database) - Product Management - Germany at Redis
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 0, Location: 50, Experience: 75
+[dev:api] Final Score: 38
+[dev:api] 
+[dev:api] Job: Senior Analytics Engineer (f/m/x) - Enpal Energy at Enpal
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 25, Location: 50, Experience: 75
+[dev:api] Final Score: 45
+[dev:api] 
+[dev:api] Job: Copy of Staff / Principal Applied AI Researcher (Agentic Search) at Nebius
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 13, Location: 50, Experience: 75
+[dev:api] Final Score: 41
+[dev:api] 
+[dev:api] Job: Senior Software Engineer, Embedded UI at Roku
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 50, Location: 50, Experience: 75
+[dev:api] Final Score: 53
+[dev:api] 
+[dev:api] Job: Senior Technical Support Engineer at Digitalassetcorp
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 38, Location: 50, Experience: 75
+[dev:api] Final Score: 49
+[dev:api] 
+[dev:api] Job: Head of Data Operations at Multiverse
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 0, Location: 50, Experience: 75
+[dev:api] Final Score: 38
+[dev:api] 
+[dev:api] Job: Staff Backend Engineer - Grafana App Platform | UK | Remote at grafanalabs
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 0, Location: 50, Experience: 75
+[dev:api] Final Score: 38
+[dev:api] 
+[dev:api] Job: Software Engineer - Platform Productivity | United Kingdom | Remote at grafanalabs
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 13, Location: 50, Experience: 75
+[dev:api] Final Score: 41
+[dev:api] 
+[dev:api] Job: Senior Software Engineer - k6 Core | USA, EST only | Remote at grafanalabs
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 38, Location: 50, Experience: 75
+[dev:api] Final Score: 49
+[dev:api] 
+[dev:api] Job: Senior Software Engineer - k6 Core | United Kingdom | Remote at grafanalabs
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 38, Location: 50, Experience: 75
+[dev:api] Final Score: 49
+[dev:api] 
+[dev:api] Job: Senior Platform Engineer - Platform Metal | UK | Remote at grafanalabs
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 25, Location: 50, Experience: 75
+[dev:api] Final Score: 45
+[dev:api] 
+[dev:api] Job: Engineering Manager at prolific
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 50, Location: 50, Experience: 75
+[dev:api] Final Score: 53
+[dev:api] 
+[dev:api] Job: Staff Machine Learning Engineer (TLM), Driver Understanding and Evaluation at Waymo
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 0, Location: 50, Experience: 75
+[dev:api] Final Score: 38
+[dev:api] 
+[dev:api] Job: Staff Machine Learning Engineer, Simulation at Waymo
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 13, Location: 50, Experience: 75
+[dev:api] Final Score: 41
+[dev:api] 
+[dev:api] Job: Staff Machine Learning Engineer at Waymo
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 13, Location: 50, Experience: 75
+[dev:api] Final Score: 41
+[dev:api] 
+[dev:api] Job: Staff Machine Learning Engineer at Waymo
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 13, Location: 50, Experience: 75
+[dev:api] Final Score: 41
+[dev:api] 
+[dev:api] Job: Machine Learning Engineer at Waymo
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 13, Location: 50, Experience: 75
+[dev:api] Final Score: 41
+[dev:api] 
+[dev:api] Job: Senior Frontend Engineer, Marketing Website at Synthesia
+[dev:api] Status: Accepted
+[dev:api] Role: 100, Skills: 25, Location: 50, Experience: 75
+[dev:api] Final Score: 65
+[dev:api] 
+[dev:api] Job: AEM Backend Developer - Senior at Jobgether
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 38, Location: 50, Experience: 75
+[dev:api] Final Score: 49
+[dev:api] 
+[dev:api] Job: Software Engineer, Infrastructure at notion
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 0, Location: 50, Experience: 75
+[dev:api] Final Score: 38
+[dev:api] 
+[dev:api] Job: Software Engineer, Developer Experience at notion
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 13, Location: 50, Experience: 75
+[dev:api] Final Score: 41
+[dev:api] 
+[dev:api] Job: Business Development Manager, Product & Platform at notion
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 0, Location: 50, Experience: 75
+[dev:api] Final Score: 38
+[dev:api] 
+[dev:api] Job: Software Engineer, AI Workflows at notion
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 38, Location: 50, Experience: 75
+[dev:api] Final Score: 49
+[dev:api] 
+[dev:api] Job: Software Engineer, AI Capture at notion
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 0, Location: 50, Experience: 75
+[dev:api] Final Score: 38
+[dev:api] 
+[dev:api] Job: Software Engineer, Collections Experience at notion
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 13, Location: 50, Experience: 75
+[dev:api] Final Score: 41
+[dev:api] 
+[dev:api] Job: Enterprise Technical Support Engineer at notion
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 38, Location: 50, Experience: 75
+[dev:api] Final Score: 49
+[dev:api] 
+[dev:api] Job: Software Engineer, Trust at notion
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 38, Location: 50, Experience: 75
+[dev:api] Final Score: 49
+[dev:api] 
+[dev:api] Job: Software Engineer, Product Analytics Platform at notion
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 25, Location: 50, Experience: 75
+[dev:api] Final Score: 45
+[dev:api] 
+[dev:api] Job: Software Engineer, Early Career (AI) at notion
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 38, Location: 50, Experience: 75
+[dev:api] Final Score: 49
+[dev:api] 
+[dev:api] Job: Developer Advocate at notion
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 0, Location: 50, Experience: 75
+[dev:api] Final Score: 38
+[dev:api] 
+[dev:api] Job: Software Engineer, Web Infrastructure at notion
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 13, Location: 50, Experience: 75
+[dev:api] Final Score: 41
+[dev:api] 
+[dev:api] Job: Security Engineer, Corporate Security at notion
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 13, Location: 50, Experience: 75
+[dev:api] Final Score: 41
+[dev:api] 
+[dev:api] Job: Software Engineer, AI Security at notion
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 0, Location: 50, Experience: 75
+[dev:api] Final Score: 38
+[dev:api] 
+[dev:api] Job: Software Engineer, Developer Experience (Go Lead) at notion
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 13, Location: 50, Experience: 75
+[dev:api] Final Score: 41
+[dev:api] 
+[dev:api] Job: Country Manager, Taiwan at notion
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 0, Location: 50, Experience: 75
+[dev:api] Final Score: 38
+[dev:api] 
+[dev:api] Job: Software Engineer, Early Career at notion
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 38, Location: 50, Experience: 75
+[dev:api] Final Score: 49
+[dev:api] 
+[dev:api] Job: Country Manager, Italy at notion
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 0, Location: 50, Experience: 75
+[dev:api] Final Score: 38
+[dev:api] 
+[dev:api] Job: Country Manager, Spain at notion
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 0, Location: 50, Experience: 75
+[dev:api] Final Score: 38
+[dev:api] 
+[dev:api] Job: Business Systems Analyst at notion
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 0, Location: 50, Experience: 75
+[dev:api] Final Score: 38
+[dev:api] 
+[dev:api] Job: Forward Deployed Architect, Japan at notion
+[dev:api] Status: Accepted
+[dev:api] Role: 50, Skills: 0, Location: 50, Experience: 75
+[dev:api] Final Score: 38

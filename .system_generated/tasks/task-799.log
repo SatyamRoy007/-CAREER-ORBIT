@@ -1,0 +1,27 @@
+
+> career-orbit@1.0.0 dev
+> concurrently -k "npm:dev:api" "npm:dev:web"
+
+[dev:api] 
+[dev:api] > career-orbit@1.0.0 dev:api
+[dev:api] > node server/index.mjs
+[dev:api] 
+[dev:web] 
+[dev:web] > career-orbit@1.0.0 dev:web
+[dev:web] > vite --configLoader runner
+[dev:web] 
+[dev:web] 
+[dev:web]   VITE v6.4.3  ready in 462 ms
+[dev:web] 
+[dev:web]   ➜  Local:   http://localhost:5173/
+[dev:web]   ➜  Network: use --host to expose
+[dev:api] Career Orbit API listening on http://localhost:8787
+[dev:web] 10:33:41 am [vite] (client) hmr update /src/main.tsx
+[dev:web] 10:44:43 am [vite] (client) hmr update /src/main.tsx
+[dev:web] 10:45:31 am [vite] (client) hmr update /src/main.tsx
+[dev:web] 11:20:04 am [vite] (client) hmr update /src/styles.css
+[dev:web] 11:21:58 am [vite] (client) hmr update /src/styles.css
+[dev:web] 11:22:55 am [vite] (client) hmr update /src/styles.css
+[dev:api] npm run dev:api exited with code 1
+--> Sending SIGTERM to other processes..
+[dev:web] npm run dev:web exited with code 1

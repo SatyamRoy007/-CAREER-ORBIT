@@ -1,0 +1,88 @@
+
+> career-orbit@1.0.0 dev
+> concurrently -k "npm:dev:api" "npm:dev:web"
+
+[dev:api] 
+[dev:api] > career-orbit@1.0.0 dev:api
+[dev:api] > node server/index.mjs
+[dev:api] 
+[dev:web] 
+[dev:web] > career-orbit@1.0.0 dev:web
+[dev:web] > vite --configLoader runner
+[dev:web] 
+[dev:web] 
+[dev:web]   VITE v6.4.3  ready in 668 ms
+[dev:web] 
+[dev:web]   ➜  Local:   http://localhost:5173/
+[dev:web]   ➜  Network: use --host to expose
+[dev:api] Career Orbit API listening on http://localhost:8787
+[dev:web] 1:12:22 pm [vite] (client) hmr update /src/main.tsx
+[dev:web] 1:12:22 pm [vite] Internal server error: C:\Users\Satyam\.gemini\antigravity\scratch\yes-in-fact-an-agentic-ai\src\main.tsx: Adjacent JSX elements must be wrapped in an enclosing tag. Did you want a JSX fragment <>...</>? (677:4)
+[dev:web] 
+[dev:web]   675 |
+[dev:web]   676 |       <footer>Career Orbit Autonomous Agent — Review original job postings before submitting applications.</footer>
+[dev:web] > 677 |     </main>
+[dev:web]       |     ^
+[dev:web]   678 |   )
+[dev:web]   679 | }
+[dev:web]   680 |
+[dev:web]   Plugin: vite:react-babel
+[dev:web]   File: C:/Users/Satyam/.gemini/antigravity/scratch/yes-in-fact-an-agentic-ai/src/main.tsx:677:4
+[dev:web]   675|  
+[dev:web]   676|        <footer>Career Orbit Autonomous Agent — Review original job postings before submitting applications.</footer>
+[dev:web]   677|      </main>
+[dev:web]      |      ^
+[dev:web]   678|    )
+[dev:web]   679|  }
+[dev:web]       at constructor (C:\Users\Satyam\.gemini\antigravity\scratch\yes-in-fact-an-agentic-ai\node_modules\@babel\parser\lib\index.js:369:19)
+[dev:web]       at TypeScriptParserMixin.raise (C:\Users\Satyam\.gemini\antigravity\scratch\yes-in-fact-an-agentic-ai\node_modules\@babel\parser\lib\index.js:6620:19)
+[dev:web]       at TypeScriptParserMixin.jsxParseElementAt (C:\Users\Satyam\.gemini\antigravity\scratch\yes-in-fact-an-agentic-ai\node_modules\@babel\parser\lib\index.js:4758:18)
+[dev:web]       at TypeScriptParserMixin.jsxParseElement (C:\Users\Satyam\.gemini\antigravity\scratch\yes-in-fact-an-agentic-ai\node_modules\@babel\parser\lib\index.js:4765:17)
+[dev:web]       at TypeScriptParserMixin.parseExprAtom (C:\Users\Satyam\.gemini\antigravity\scratch\yes-in-fact-an-agentic-ai\node_modules\@babel\parser\lib\index.js:4778:19)
+[dev:web]       at TypeScriptParserMixin.parseExprSubscripts (C:\Users\Satyam\.gemini\antigravity\scratch\yes-in-fact-an-agentic-ai\node_modules\@babel\parser\lib\index.js:11102:23)
+[dev:web]       at TypeScriptParserMixin.parseUpdate (C:\Users\Satyam\.gemini\antigravity\scratch\yes-in-fact-an-agentic-ai\node_modules\@babel\parser\lib\index.js:11087:21)
+[dev:web]       at TypeScriptParserMixin.parseMaybeUnary (C:\Users\Satyam\.gemini\antigravity\scratch\yes-in-fact-an-agentic-ai\node_modules\@babel\parser\lib\index.js:11067:23)
+[dev:web]       at TypeScriptParserMixin.parseMaybeUnary (C:\Users\Satyam\.gemini\antigravity\scratch\yes-in-fact-an-agentic-ai\node_modules\@babel\parser\lib\index.js:9858:18)
+[dev:web]       at TypeScriptParserMixin.parseMaybeUnaryOrPrivate (C:\Users\Satyam\.gemini\antigravity\scratch\yes-in-fact-an-agentic-ai\node_modules\@babel\parser\lib\index.js:10920:61)
+[dev:web]       at TypeScriptParserMixin.parseExprOps (C:\Users\Satyam\.gemini\antigravity\scratch\yes-in-fact-an-agentic-ai\node_modules\@babel\parser\lib\index.js:10925:23)
+[dev:web]       at TypeScriptParserMixin.parseMaybeConditional (C:\Users\Satyam\.gemini\antigravity\scratch\yes-in-fact-an-agentic-ai\node_modules\@babel\parser\lib\index.js:10902:23)
+[dev:web]       at TypeScriptParserMixin.parseMaybeAssign (C:\Users\Satyam\.gemini\antigravity\scratch\yes-in-fact-an-agentic-ai\node_modules\@babel\parser\lib\index.js:10852:21)
+[dev:web]       at C:\Users\Satyam\.gemini\antigravity\scratch\yes-in-fact-an-agentic-ai\node_modules\@babel\parser\lib\index.js:9796:39
+[dev:web]       at TypeScriptParserMixin.tryParse (C:\Users\Satyam\.gemini\antigravity\scratch\yes-in-fact-an-agentic-ai\node_modules\@babel\parser\lib\index.js:6928:20)
+[dev:web]       at TypeScriptParserMixin.parseMaybeAssign (C:\Users\Satyam\.gemini\antigravity\scratch\yes-in-fact-an-agentic-ai\node_modules\@babel\parser\lib\index.js:9796:18)
+[dev:web]       at TypeScriptParserMixin.parseExpressionBase (C:\Users\Satyam\.gemini\antigravity\scratch\yes-in-fact-an-agentic-ai\node_modules\@babel\parser\lib\index.js:10805:23)
+[dev:web]       at C:\Users\Satyam\.gemini\antigravity\scratch\yes-in-fact-an-agentic-ai\node_modules\@babel\parser\lib\index.js:10801:39
+[dev:web]       at TypeScriptParserMixin.allowInAnd (C:\Users\Satyam\.gemini\antigravity\scratch\yes-in-fact-an-agentic-ai\node_modules\@babel\parser\lib\index.js:12450:16)
+[dev:web]       at TypeScriptParserMixin.parseExpression (C:\Users\Satyam\.gemini\antigravity\scratch\yes-in-fact-an-agentic-ai\node_modules\@babel\parser\lib\index.js:10801:17)
+[dev:web]       at TypeScriptParserMixin.parseStatementContent (C:\Users\Satyam\.gemini\antigravity\scratch\yes-in-fact-an-agentic-ai\node_modules\@babel\parser\lib\index.js:12924:23)
+[dev:web]       at TypeScriptParserMixin.parseStatementContent (C:\Users\Satyam\.gemini\antigravity\scratch\yes-in-fact-an-agentic-ai\node_modules\@babel\parser\lib\index.js:9529:18)
+[dev:web]       at TypeScriptParserMixin.parseStatementLike (C:\Users\Satyam\.gemini\antigravity\scratch\yes-in-fact-an-agentic-ai\node_modules\@babel\parser\lib\index.js:12796:17)
+[dev:web]       at TypeScriptParserMixin.parseModuleItem (C:\Users\Satyam\.gemini\antigravity\scratch\yes-in-fact-an-agentic-ai\node_modules\@babel\parser\lib\index.js:12773:17)
+[dev:web]       at TypeScriptParserMixin.parseBlockOrModuleBlockBody (C:\Users\Satyam\.gemini\antigravity\scratch\yes-in-fact-an-agentic-ai\node_modules\@babel\parser\lib\index.js:13345:36)
+[dev:web]       at TypeScriptParserMixin.parseBlockBody (C:\Users\Satyam\.gemini\antigravity\scratch\yes-in-fact-an-agentic-ai\node_modules\@babel\parser\lib\index.js:13338:10)
+[dev:web]       at TypeScriptParserMixin.parseProgram (C:\Users\Satyam\.gemini\antigravity\scratch\yes-in-fact-an-agentic-ai\node_modules\@babel\parser\lib\index.js:12651:10)
+[dev:web]       at TypeScriptParserMixin.parseTopLevel (C:\Users\Satyam\.gemini\antigravity\scratch\yes-in-fact-an-agentic-ai\node_modules\@babel\parser\lib\index.js:12641:25)
+[dev:web]       at TypeScriptParserMixin.parse (C:\Users\Satyam\.gemini\antigravity\scratch\yes-in-fact-an-agentic-ai\node_modules\@babel\parser\lib\index.js:14517:25)
+[dev:web]       at TypeScriptParserMixin.parse (C:\Users\Satyam\.gemini\antigravity\scratch\yes-in-fact-an-agentic-ai\node_modules\@babel\parser\lib\index.js:10147:18)
+[dev:web]       at parse (C:\Users\Satyam\.gemini\antigravity\scratch\yes-in-fact-an-agentic-ai\node_modules\@babel\parser\lib\index.js:14551:38)
+[dev:web]       at parser (C:\Users\Satyam\.gemini\antigravity\scratch\yes-in-fact-an-agentic-ai\node_modules\@babel\core\lib\parser\index.js:41:34)
+[dev:web]       at parser.next (<anonymous>)
+[dev:web]       at normalizeFile (C:\Users\Satyam\.gemini\antigravity\scratch\yes-in-fact-an-agentic-ai\node_modules\@babel\core\lib\transformation\normalize-file.js:51:37)
+[dev:web]       at normalizeFile.next (<anonymous>)
+[dev:web]       at run (C:\Users\Satyam\.gemini\antigravity\scratch\yes-in-fact-an-agentic-ai\node_modules\@babel\core\lib\transformation\index.js:22:50)
+[dev:web]       at run.next (<anonymous>)
+[dev:web]       at transform (C:\Users\Satyam\.gemini\antigravity\scratch\yes-in-fact-an-agentic-ai\node_modules\@babel\core\lib\transform.js:22:33)
+[dev:web]       at transform.next (<anonymous>)
+[dev:web]       at step (C:\Users\Satyam\.gemini\antigravity\scratch\yes-in-fact-an-agentic-ai\node_modules\gensync\index.js:261:32)
+[dev:web]       at C:\Users\Satyam\.gemini\antigravity\scratch\yes-in-fact-an-agentic-ai\node_modules\gensync\index.js:273:13
+[dev:web]       at async.call.result.err.err (C:\Users\Satyam\.gemini\antigravity\scratch\yes-in-fact-an-agentic-ai\node_modules\gensync\index.js:223:11)
+[dev:web]       at C:\Users\Satyam\.gemini\antigravity\scratch\yes-in-fact-an-agentic-ai\node_modules\gensync\index.js:189:28
+[dev:web]       at C:\Users\Satyam\.gemini\antigravity\scratch\yes-in-fact-an-agentic-ai\node_modules\@babel\core\lib\gensync-utils\async.js:67:7
+[dev:web]       at C:\Users\Satyam\.gemini\antigravity\scratch\yes-in-fact-an-agentic-ai\node_modules\gensync\index.js:113:33
+[dev:web]       at step (C:\Users\Satyam\.gemini\antigravity\scratch\yes-in-fact-an-agentic-ai\node_modules\gensync\index.js:287:14)
+[dev:web]       at C:\Users\Satyam\.gemini\antigravity\scratch\yes-in-fact-an-agentic-ai\node_modules\gensync\index.js:273:13
+[dev:web]       at async.call.result.err.err (C:\Users\Satyam\.gemini\antigravity\scratch\yes-in-fact-an-agentic-ai\node_modules\gensync\index.js:223:11)
+[dev:web] 1:12:37 pm [vite] (client) hmr update /src/styles.css
+[dev:web] 1:13:00 pm [vite] (client) hmr update /src/main.tsx
+[dev:web] 1:13:00 pm [vite] (client) hmr invalidate /src/main.tsx Could not Fast Refresh ("true" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[dev:web] 1:13:00 pm [vite] (client) page reload src/main.tsx

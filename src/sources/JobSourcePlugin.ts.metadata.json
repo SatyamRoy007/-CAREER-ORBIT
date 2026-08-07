@@ -1,0 +1,5 @@
+{
+  "summary": "Updated JobSourcePlugin interface to include apiVersion field for versioning plugins.",
+  "updatedAt": "2026-08-06T09:35:15.739110Z",
+  "userFacing": true
+}

@@ -1,0 +1,2705 @@
+
+> career-orbit@1.0.0 dev
+> concurrently -k "npm:dev:api" "npm:dev:web"
+
+[dev:api] 
+[dev:api] > career-orbit@1.0.0 dev:api
+[dev:api] > node server/index.mjs
+[dev:api] 
+[dev:web] 
+[dev:web] > career-orbit@1.0.0 dev:web
+[dev:web] > vite --configLoader runner
+[dev:web] 
+[dev:web] 
+[dev:web]   VITE v6.4.3  ready in 293 ms
+[dev:web] 
+[dev:web]   ➜  Local:   http://localhost:5173/
+[dev:web]   ➜  Network: use --host to expose
+[dev:api] Career Orbit API listening on http://localhost:8788
+[dev:api] 
+[dev:api] Job: Sales Jedi at Creative Force
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: SaaS Product Support Jedi at Creative Force
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Freelance Writer at IAPWE
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Freelance Copywriter at Coalition Technologies
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior Graphic Designer at Lemon.io
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Data Labeling Specialists at Workada
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Business Development Representative at Outsite
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Content Reviewer - United States at TELUS Digital
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Location mismatch
+[dev:api] 
+[dev:api] Job: Product Sales Specialist - Pet Health (CST timezone) at Tribe Wellness
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Patient Care Specialist at STATLINX
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior Independent Software Developer at A.Team
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior Independent AI Engineer / Architect at A.Team
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Head of Marketing & Communications at garden3d
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Tech Lead Full-Stack Rails Engineer at Mitre Media
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior DevOps Engineer at Lemon.io
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior Product Engineer (Fullstack) at Clipster
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Assistant Account Payable at The Obesity Society
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Remote Office Assistant at Coalition Technologies
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Staff Software Engineer, Product (Belo Horizonte) at LawnStarter
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Staff Software Engineer, Product (Montevideo) at LawnStarter
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Staff Software Engineer, Product (São Paulo) at LawnStarter
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Staff Software Engineer, Product (Mexico City) at LawnStarter
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Staff Software Engineer, Product (Campinas) at LawnStarter
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Staff Software Engineer, Product (Florianópolis) at LawnStarter
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Staff Product Engineer (Mexico City) at LawnStarter
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Staff Product Engineer (Montevideo) at LawnStarter
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Staff Product Engineer (Campinas) at LawnStarter
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Staff Product Engineer (Belo Horizonte) at LawnStarter
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Staff Product Engineer (Florianópolis) at LawnStarter
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Product Sales Specialist - Pet Health at Tribe Wellness
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Inside Sales Contractor at Credit Wellness, LLC
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: High-Ticket Financial Sales Specialist & Team Lead Track at FSE LLC
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Online Data Analyst Canada (French Language) (C) at TELUS Digital
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Werkstudent (Mensch) Planning Außenwerbung at wppmedia
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Werkstudent People Ops & Payroll at sumup
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior Full Stack Engineer - Sidekick at sumup
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Backend Engineer - Transfers Gateway at sumup
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Backend Engineer - Money Transfers at sumup
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Backend Engineer (Golang) - Balance Management at sumup
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Werkstudent HR Administration m/w/d at Proalphagroup
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Werkstudent Online-Marketing (w/m/d) at Docleads
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Finance & Operations Manager (m/f/d) at GENUINE Beauty GmbH
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior AI Consultant / Project Lead (m/f/x) at Appliedai
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Manager Kooperationen & Social Impact: Vollzeit oder Teilzeit · Bremen at Bremer Gewürzhandel GmbH
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Strategic Supply Partnerships Lead (REMOTE) at REPLUG
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Online Data Analyst - English speaker in UK at TELUS Digital
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Influencer Marketing Manager at Pulse Advertising GmbH
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Staff Engineer at wolt
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Software Engineer at wolt
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: FullStack Engineer, AdTech at wolt
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior Software Engineer (Go) - AI Resilience & Security Enhancements (Contract) at Form3
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior Cloud Security Engineer - AI Resilience & Security Enhancements (Contract) at Form3
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Staff CX Software Engineer at Digitalassetcorp
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior Technical Support Engineer at Digitalassetcorp
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior CX Software Engineer at Digitalassetcorp
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Staff Backend Engineer - Grafana App Platform | UK | Remote at grafanalabs
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Software Engineer - Platform Productivity | United Kingdom | Remote at grafanalabs
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior Software Engineer - k6 Core | USA, EST only | Remote at grafanalabs
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior Software Engineer - k6 Core | United Kingdom | Remote at grafanalabs
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior Platform Engineer - Platform Metal | UK | Remote at grafanalabs
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior Audit Innovation and Enablement Lead at Monzo
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior Analytics Engineer at Monzo
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Staff Software Engineer, Simulation ML Infrastructure at Waymo
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Staff Machine Learning Infrastructure Engineer, Simulation at Waymo
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Staff Machine Learning Engineer (TLM), Driver Understanding and Evaluation at Waymo
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Staff Machine Learning Engineer, Simulation at Waymo
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Staff Machine Learning Engineer, Simulation at Waymo
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Staff Machine Learning Engineer at Waymo
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Staff Machine Learning Engineer at Waymo
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Software Quality Operations Specialist at Waymo
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior Safety Researcher, Computational Behavior Modeling at Waymo
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior Research Scientist, AI Foundations Recipes at Waymo
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior Program Manager, AV Compliance - External Reporting at Waymo
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior Machine Learning Engineer, Simulation at Waymo
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior Machine Learning Engineer / London (UK-LON-40BR) / Simulation (7XW) at Waymo
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior Machine Learning Engineer / London (UK-LON-40BR) / Simulation (7XW) at Waymo
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior Counsel, Employment, UK at Waymo
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Machine Learning Engineer at Waymo
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: International Brand Media & Analytics Manager at Waymo
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Director of Engineering, London at Waymo
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior SEO & GEO Director at Jellyfish
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: SEO Director at Jellyfish
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior Frontend Engineer, Marketing Website at Synthesia
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Campaign Operations Manager at Carwow
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: AEM Backend Developer - Senior at Jobgether
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Automation Engineer (PAM/CPBF) at Astspacemobile
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: UK New Business Director at Wppproduction
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior Community Operation Manager at Sonyinteractiveentertainmentglobal
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Creative Director - FTC at Omaze
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Talent Acquisition Manager at Unity Advisory
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Automation Engineer - Influencers at ElevenLabs
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Software Development Engineer in Test at Sporty Group
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Devices & IOT Field Engineering Manager at Canonical Ltd.
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior Solutions Architect I, Pre-Sales - South Korea Defense & Intelligence at Planet Labs Inc.
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Sr. Security Researcher II (Remote, DEU) at CrowdStrike
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Principal DevOps Engineer at NBCUniversal
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Workflow Developer & Tester at Webbing
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Staff Cloud Security Engineer at Temporal Technologies
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior AI Data Engineer at Scorpion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Staff Data Scientist - Ads Measurement, Signals, Privacy at Reddit
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior Hypervisor Engineer at Nebius
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: C, Golang Software Engineer working on dqlite, a Raft extension for SQLite at Canonical Ltd.
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior Site Reliability Engineer at Remote
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior Software Engineer, Storage at Reddit
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Data/ Java Engineer (AI/LLM Chatbot, Customer Service) at Binance
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Client Full-Stack Engineer — IM Chat Platform, Android Focus at Binance
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior Backend Engineer, AI Engineering: Chat at GitLab
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Software Engineering Manager - Container and Virtualisation Infrastructure at Canonical Ltd.
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Ubuntu Linux Kernel Engineer - BIOS/Firmware at Canonical Ltd.
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior Manager of AI Enablement at CodePath
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Principal ML Engineer at Cloudbeds
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior Manager, Solutions Architecture - Growth at Temporal Technologies
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: SAP BTP Integration Developer (m/f/d) at SAP Fioneer
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior/Principal Biostatistician Consultant remote (Infectious Disease) at ClinChoice
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior AI Research Engineer at Phaidra
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior AI Research Scientist (Model-based RL) at Phaidra
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Sr Digital Customer Success Manager at Twilio
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior Site Reliability Engineer at Akamai Technologies
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Solidity Compiler Frontend Engineer at CertiK
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior Backend Software Engineer (USA Remote) at Turnitin, LLC
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Staff Engineer, Builder Enablement at NBCUniversal
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior Data Platform Engineer at 1Password
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Sr. Product Marketing Manager - Release Marketing & PMM Operations at Samsara
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Platform Engineer at Defense Unicorns
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Distributed Systems Engineer at MLabs
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Staff Software Engineer, Product Engineering, EU at Ashby
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior Software Engineer, Product Engineering, EU at Ashby
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior Gameplay Designer (Enemies/NPC) at CD PROJEKT RED
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior Frontend Software Engineer, Home Experience at Reddit
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Principal Software Engineer - Postgres at Clickhouse
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior Business Engineer - Ads at Reddit
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Engineering Manager, Service Platform at Instacart
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Machine Learning Engineer at ManTech
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior Business Engineer at Reddit
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Staff Backend Engineer / Tech Lead Manager at Nebius
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior Software Engineer, Compute (Temporal Cloud) at Temporal Technologies
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu at Canonical Ltd.
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: IoT Solutions Architecture Manager (Americas only) at Canonical Ltd.
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior Security Operations Engineer at Canonical Ltd.
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Engineering Manager - Ubuntu Security at Canonical Ltd.
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Engineering Manager - Ubuntu Linux Kernel at Canonical Ltd.
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Forward Deployed Engineer, GTM, AMER at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Forward Deployed Engineer, GTM, Japan at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Forward Deployed Engineer, GTM, France at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Demand & Campaigns Lead, EMEA at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Software Engineer, Trust at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Developer Advocate at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Software Engineer, Web Infrastructure at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Software Engineer, AI Security at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: APAC Campaigns & Content Lead at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Location mismatch
+[dev:api] 
+[dev:api] Job: Engineering Manager, Search & Context Platform at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: CX Knowledge Architect at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Technical Enablement Manager, Customer Experience at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Head of Demand Engine at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Partner Marketing Manager at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: SMB Marketing Manager at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Forward Deployed Engineer at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:web] 6:44:53 pm [vite] (client) hmr update /src/main.tsx
+[dev:web] 6:44:53 pm [vite] (client) hmr invalidate /src/main.tsx Could not Fast Refresh ("true" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[dev:web] 6:44:53 pm [vite] (client) page reload src/main.tsx
+[dev:api] 
+[dev:api] Job: Sales Jedi at Creative Force
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: SaaS Product Support Jedi at Creative Force
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Freelance Writer at IAPWE
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Freelance Copywriter at Coalition Technologies
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior Graphic Designer at Lemon.io
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Data Labeling Specialists at Workada
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Business Development Representative at Outsite
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Content Reviewer - United States at TELUS Digital
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Product Sales Specialist - Pet Health (CST timezone) at Tribe Wellness
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Patient Care Specialist at STATLINX
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior Independent Software Developer at A.Team
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Location mismatch
+[dev:api] 
+[dev:api] Job: Senior Independent AI Engineer / Architect at A.Team
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Head of Marketing & Communications at garden3d
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Tech Lead Full-Stack Rails Engineer at Mitre Media
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior DevOps Engineer at Lemon.io
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior Product Engineer (Fullstack) at Clipster
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Location mismatch
+[dev:api] 
+[dev:api] Job: Assistant Account Payable at The Obesity Society
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Remote Office Assistant at Coalition Technologies
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Staff Software Engineer, Product (Belo Horizonte) at LawnStarter
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Location mismatch
+[dev:api] 
+[dev:api] Job: Staff Software Engineer, Product (Montevideo) at LawnStarter
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Location mismatch
+[dev:api] 
+[dev:api] Job: Staff Software Engineer, Product (São Paulo) at LawnStarter
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Location mismatch
+[dev:api] 
+[dev:api] Job: Staff Software Engineer, Product (Mexico City) at LawnStarter
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Location mismatch
+[dev:api] 
+[dev:api] Job: Staff Software Engineer, Product (Campinas) at LawnStarter
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Location mismatch
+[dev:api] 
+[dev:api] Job: Staff Software Engineer, Product (Florianópolis) at LawnStarter
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Location mismatch
+[dev:api] 
+[dev:api] Job: Staff Product Engineer (Mexico City) at LawnStarter
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Staff Product Engineer (Montevideo) at LawnStarter
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Staff Product Engineer (Campinas) at LawnStarter
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Staff Product Engineer (Belo Horizonte) at LawnStarter
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Staff Product Engineer (Florianópolis) at LawnStarter
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Product Sales Specialist - Pet Health at Tribe Wellness
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Inside Sales Contractor at Credit Wellness, LLC
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: High-Ticket Financial Sales Specialist & Team Lead Track at FSE LLC
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Online Data Analyst Canada (French Language) (C) at TELUS Digital
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Backend Engineer - Money Transfers at sumup
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Backend Engineer (Golang) - Balance Management at sumup
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: (Senior) GenAI Engineer at capco
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Werkstudent HR Administration m/w/d at Proalphagroup
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior Product Manager, Redis Core (Document Database) - Product Management - Germany at Redis
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior Analytics Engineer (f/m/x) - Enpal Energy at Enpal
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Kundenbegleiter:in (w/m/d) at Enpal
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Werkstudent:in Product Management (m/w/d) at epilot GmbH
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior Software Engineer (m/f/d) in Berlin or Konstanz at KNIME AG
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Skills overlap: 0/8
+[dev:api] 
+[dev:api] Job: Senior AI Strategist (m/f/x) – European AI Readiness Observatory at Appliedai
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior AI Consultant / Project Lead (m/f/x) at Appliedai
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Technical Product Owner (m/f/d) at ITA Consulting GmbH
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Director Asset Delivery (m/w/d) at encosa energy GmbH
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Entwickler Elektronischer Systeme (m/w/d) at K-tronik GmbH
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Software-Entwickler C# / DevOps (m/w/d) at Multi Leiterplatten GmbH
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Working Student Full-Stack Software Development (m/f/d) at Quantum-Systems GmbH
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Projektmanager Sofwareentwicklung SPS (m/w/d) at ekvip automation GmbH
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Partnerships Specialist at Proxima Fusion GmbH
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Online Data Analyst - English speaker in UK at TELUS Digital
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Software Engineer at wolt
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Location mismatch
+[dev:api] 
+[dev:api] Job: Senior Software Engineer (Go) - AI Resilience & Security Enhancements (Contract) at Form3
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Location mismatch
+[dev:api] 
+[dev:api] Job: Senior Cloud Security Engineer - AI Resilience & Security Enhancements (Contract) at Form3
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Staff CX Software Engineer at Digitalassetcorp
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Location mismatch
+[dev:api] 
+[dev:api] Job: Senior Technical Support Engineer at Digitalassetcorp
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior CX Software Engineer at Digitalassetcorp
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Location mismatch
+[dev:api] 
+[dev:api] Job: Head of Data Operations at Multiverse
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Staff Backend Engineer - Grafana App Platform | UK | Remote at grafanalabs
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Software Engineer - Platform Productivity | United Kingdom | Remote at grafanalabs
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Location mismatch
+[dev:api] 
+[dev:api] Job: Senior Software Engineer - k6 Core | USA, EST only | Remote at grafanalabs
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Location mismatch
+[dev:api] 
+[dev:api] Job: Senior Software Engineer - k6 Core | United Kingdom | Remote at grafanalabs
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Location mismatch
+[dev:api] 
+[dev:api] Job: Senior Platform Engineer - Platform Metal | UK | Remote at grafanalabs
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Engineering Manager at prolific
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Staff Software Engineer, Simulation ML Infrastructure at Waymo
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Skills overlap: 0/8
+[dev:api] 
+[dev:api] Job: Staff Machine Learning Infrastructure Engineer, Simulation at Waymo
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Staff Machine Learning Engineer (TLM), Driver Understanding and Evaluation at Waymo
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Staff Machine Learning Engineer, Simulation at Waymo
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Staff Machine Learning Engineer at Waymo
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Staff Machine Learning Engineer at Waymo
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Software Quality Operations Specialist at Waymo
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior Research Scientist, AI Foundations Recipes at Waymo
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Machine Learning Engineer at Waymo
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Director of Engineering, London at Waymo
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Engineer - .NET Backend (London) at Trainline
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Associate Product Manager at Lendable
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior Frontend Engineer, Marketing Website at Synthesia
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Account Director, Startups at Openai
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: AEM Backend Developer - Senior at Jobgether
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Automation Engineer (PAM/CPBF) at Astspacemobile
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Automation Engineer - Influencers at ElevenLabs
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Head of Music at ElevenLabs
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Software Development Engineer in Test at Sporty Group
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Devices & IOT Field Engineering Manager at Canonical Ltd.
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior Solutions Architect I, Pre-Sales - South Korea Defense & Intelligence at Planet Labs Inc.
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Sr. Security Researcher II (Remote, DEU) at CrowdStrike
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Principal DevOps Engineer at NBCUniversal
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Workflow Developer & Tester at Webbing
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Staff Cloud Security Engineer at Temporal Technologies
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior AI Data Engineer at Scorpion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Staff Data Scientist - Ads Measurement, Signals, Privacy at Reddit
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior Hypervisor Engineer at Nebius
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: C, Golang Software Engineer working on dqlite, a Raft extension for SQLite at Canonical Ltd.
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Location mismatch
+[dev:api] 
+[dev:api] Job: Senior Site Reliability Engineer at Remote
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior Software Engineer, Storage at Reddit
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Location mismatch
+[dev:api] 
+[dev:api] Job: Data/ Java Engineer (AI/LLM Chatbot, Customer Service) at Binance
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Client Full-Stack Engineer — IM Chat Platform, Android Focus at Binance
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior Backend Engineer, AI Engineering: Chat at GitLab
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Software Engineering Manager - Container and Virtualisation Infrastructure at Canonical Ltd.
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Location mismatch
+[dev:api] 
+[dev:api] Job: Ubuntu Linux Kernel Engineer - BIOS/Firmware at Canonical Ltd.
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior Manager of AI Enablement at CodePath
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Principal ML Engineer at Cloudbeds
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior Manager, Solutions Architecture - Growth at Temporal Technologies
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: SAP BTP Integration Developer (m/f/d) at SAP Fioneer
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior/Principal Biostatistician Consultant remote (Infectious Disease) at ClinChoice
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior AI Research Engineer at Phaidra
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior AI Research Scientist (Model-based RL) at Phaidra
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Sr Digital Customer Success Manager at Twilio
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior Site Reliability Engineer at Akamai Technologies
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Solidity Compiler Frontend Engineer at CertiK
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior Backend Software Engineer (USA Remote) at Turnitin, LLC
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Location mismatch
+[dev:api] 
+[dev:api] Job: Staff Engineer, Builder Enablement at NBCUniversal
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior Data Platform Engineer at 1Password
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Sr. Product Marketing Manager - Release Marketing & PMM Operations at Samsara
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Platform Engineer at Defense Unicorns
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Distributed Systems Engineer at MLabs
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Staff Software Engineer, Product Engineering, EU at Ashby
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Location mismatch
+[dev:api] 
+[dev:api] Job: Senior Software Engineer, Product Engineering, EU at Ashby
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Location mismatch
+[dev:api] 
+[dev:api] Job: Senior Gameplay Designer (Enemies/NPC) at CD PROJEKT RED
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior Frontend Software Engineer, Home Experience at Reddit
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Location mismatch
+[dev:api] 
+[dev:api] Job: Principal Software Engineer - Postgres at Clickhouse
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Location mismatch
+[dev:api] 
+[dev:api] Job: Senior Business Engineer - Ads at Reddit
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Engineering Manager, Service Platform at Instacart
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Machine Learning Engineer at ManTech
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior Business Engineer at Reddit
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Staff Backend Engineer / Tech Lead Manager at Nebius
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior Software Engineer, Compute (Temporal Cloud) at Temporal Technologies
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Skills overlap: 0/8
+[dev:api] 
+[dev:api] Job: Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu at Canonical Ltd.
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Location mismatch
+[dev:api] 
+[dev:api] Job: IoT Solutions Architecture Manager (Americas only) at Canonical Ltd.
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior Security Operations Engineer at Canonical Ltd.
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Engineering Manager - Ubuntu Security at Canonical Ltd.
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Engineering Manager - Ubuntu Linux Kernel at Canonical Ltd.
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Business Development Representative, San Francisco at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Product Designer at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Business Development Representative, Japan at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Sales Operations Lead, AMER at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Enterprise Sales Leader at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Model Behavior Engineer at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Governance, Risk, and Compliance Intern (Fall 2026) at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Commercial Sales Manager, Japan at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: AI Applications Engineer at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Software Engineer, Infrastructure at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Location mismatch
+[dev:api] 
+[dev:api] Job: Commercial Sales Manager, Korea at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Security Engineer, Detection and Response, Dublin at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Software Engineer, Developer Experience at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Location mismatch
+[dev:api] 
+[dev:api] Job: Business Development Representative, Korea at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Business Development Manager, Product & Platform at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Software Engineer, AI Workflows at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Location mismatch
+[dev:api] 
+[dev:api] Job: Software Engineer, AI Capture at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Location mismatch
+[dev:api] 
+[dev:api] Job: Software Engineer, Collections Experience at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Location mismatch
+[dev:api] 
+[dev:api] Job: Enterprise Technical Support Engineer at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Technical Support Manager, EMEA at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Software Engineer, Trust at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Location mismatch
+[dev:api] 
+[dev:api] Job: Software Engineer, Product Analytics Platform at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Location mismatch
+[dev:api] 
+[dev:api] Job: Software Engineer, Early Career (AI) at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Location mismatch
+[dev:api] 
+[dev:api] Job: Developer Advocate at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Startup Program & Experience Lead at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Regional Partner Manager, DACH at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Regional Partner Manager, France at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Business Development Representative, CEE at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Software Engineer, Web Infrastructure at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Location mismatch
+[dev:api] 
+[dev:api] Job: International Tax Manager at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Security Engineer, Detection and Response, San Francisco at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Security Engineer, Corporate Security at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Software Engineer, AI Security at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Location mismatch
+[dev:api] 
+[dev:api] Job: APAC Campaigns & Content Lead at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: QA Manager at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: User Researcher, AI Evaluations at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Software Engineer, Developer Experience (Go Lead) at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Location mismatch
+[dev:api] 
+[dev:api] Job: Country Manager, Taiwan at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Software Engineer, Early Career at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Location mismatch
+[dev:api] 
+[dev:api] Job: Lead, IT Audit and Technology Risk at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Country Manager, Italy at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Country Manager, Spain at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Startup Market Lead, AMER at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Software Engineer, AI Platform at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Location mismatch
+[dev:api] 
+[dev:api] Job: Regional Partner Manager, UK at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Business Systems Analyst at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Product Support Manager at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Commercial Solutions Consultant, San Francisco at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Mid-Market Solutions Consultant, New York at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Enterprise Solutions Consultant, New York at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Mid-Market Solutions Consultant, San Francisco at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Enterprise Solutions Consultant, San Francisco at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Commercial Solutions Consultant, New York at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Enterprise Solutions Consultant, Japan at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Enterprise Solutions Consultant, Korea at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Mid-Market Solutions Consultant, Japan at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Forward Deployed Architect, Japan at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Commercial Solutions Consultant, Japan at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Technical Quality Program Manager at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Outcomes Architect, UKI at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Enterprise Outcomes Architect at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Outcomes Architect, Dublin, France at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Outcomes Architect, Dublin, CEE at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Commercial Outcomes Architect at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Enterprise Outcomes Architect, Japan at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Commercial Outcomes Architect, Japan at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Business Development Representative, UKI at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Business Development Representative, Nordics at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Commercial Solutions Consultant at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Business Development Representative, DACH at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Business Development Representative, France at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Business Development Representative, MEA at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Solutions Consultant, Mid-Market, France at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Solutions Consultant, MId-Market, Nordics at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:web] 6:58:44 pm [vite] (client) hmr update /src/main.tsx
+[dev:web] 6:58:44 pm [vite] (client) hmr invalidate /src/main.tsx Could not Fast Refresh ("true" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[dev:web] 6:58:44 pm [vite] (client) page reload src/main.tsx
+[dev:web] 7:41:36 pm [vite] (client) hmr update /src/styles.css
+[dev:api] 
+[dev:api] Job: Sales Jedi at Creative Force
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: SaaS Product Support Jedi at Creative Force
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Freelance Writer at IAPWE
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Freelance Copywriter at Coalition Technologies
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior Graphic Designer at Lemon.io
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Data Labeling Specialists at Workada
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Business Development Representative at Outsite
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Content Reviewer - United States at TELUS Digital
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Product Sales Specialist - Pet Health (CST timezone) at Tribe Wellness
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Patient Care Specialist at STATLINX
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior Independent Software Developer at A.Team
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior Independent AI Engineer / Architect at A.Team
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Head of Marketing & Communications at garden3d
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Tech Lead Full-Stack Rails Engineer at Mitre Media
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior DevOps Engineer at Lemon.io
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior Product Engineer (Fullstack) at Clipster
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Assistant Account Payable at The Obesity Society
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Remote Office Assistant at Coalition Technologies
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Staff Software Engineer, Product (Belo Horizonte) at LawnStarter
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Staff Software Engineer, Product (Montevideo) at LawnStarter
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Staff Software Engineer, Product (São Paulo) at LawnStarter
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Staff Software Engineer, Product (Mexico City) at LawnStarter
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Staff Software Engineer, Product (Campinas) at LawnStarter
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Staff Software Engineer, Product (Florianópolis) at LawnStarter
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Staff Product Engineer (Mexico City) at LawnStarter
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Staff Product Engineer (Montevideo) at LawnStarter
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Staff Product Engineer (Campinas) at LawnStarter
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Staff Product Engineer (Belo Horizonte) at LawnStarter
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Staff Product Engineer (Florianópolis) at LawnStarter
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Product Sales Specialist - Pet Health at Tribe Wellness
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Inside Sales Contractor at Credit Wellness, LLC
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: High-Ticket Financial Sales Specialist & Team Lead Track at FSE LLC
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Online Data Analyst Canada (French Language) (C) at TELUS Digital
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Product Designer Intern at Cloud Studios
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Trust & Compliance Manager – Datenschutz & IT-Compliance (m/w/d) at Lecturio GmbH
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Shopware Entwickler Fullstack (m/w/d) at Aurivian GmbH
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Remote Part-time Media Search Analyst - German (DE) at TELUS Digital
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior SEA Manager (m/w/d) at actago GmbH
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior Performance & Demand Generation Manager (m/w/d) at actago GmbH
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: IT-Administrator (m|w|d) at LeySelect GmbH
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Quality Assurance Rater - German (DE) at TELUS Digital
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Werkstudent (Mensch) Planning Außenwerbung at wppmedia
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: (Senior) GenAI Engineer at capco
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Master Data Management Lead (gn) at thequalitygroupgmbh2
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior Product Manager, Redis Core (Document Database) - Product Management - Germany at Redis
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior Analytics Engineer (f/m/x) - Enpal Energy at Enpal
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Founder's office at Bjak
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Strategy & Operations Lead at Bjak
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Strategy & Operations Associate at Bjak
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Lead, Strategy at Bjak
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Head of Strategy and Product at Bjak
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Founder's Office Lead at Bjak
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Founder's Associate at Bjak
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Chief of Staff at Bjak
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: CEO Office - AI Neobank App at Bjak
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Business Operations Associate at Bjak
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Technical Product Manager at Bjak
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior Infrastructure Automation Engineer at OPSinnovate
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior AI Strategist (m/f/x) – European AI Readiness Observatory at Appliedai
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior AI Consultant / Project Lead (m/f/x) at Appliedai
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior Service Manager (w/m/d) at Timetoact Group
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Staff Product Security Engineer at chainguard
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Online Data Analyst - English speaker in UK at TELUS Digital
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Influencer Marketing Manager at Pulse Advertising GmbH
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior Software Engineer (Go) - AI Resilience & Security Enhancements (Contract) at Form3
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior Cloud Security Engineer - AI Resilience & Security Enhancements (Contract) at Form3
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior Technical Support Engineer at Digitalassetcorp
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Head of Data Operations at Multiverse
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Sr. Counsel - Regulatory at Kraken
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior Cloud Architect, Consulting (Multiple) at Cloudscaler
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Associate Engineer (Graduate Entry Role) at Cloudscaler
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Founder's office at Bjak
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Strategy & Operations Lead at Bjak
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Strategy & Operations Associate at Bjak
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Lead, Strategy at Bjak
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Head of Strategy and Product at Bjak
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Founder's Office Lead at Bjak
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Staff Backend Engineer - Grafana App Platform | UK | Remote at grafanalabs
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Software Engineer - Platform Productivity | United Kingdom | Remote at grafanalabs
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior Software Engineer - k6 Core | USA, EST only | Remote at grafanalabs
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior Software Engineer - k6 Core | United Kingdom | Remote at grafanalabs
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior Platform Engineer - Platform Metal | UK | Remote at grafanalabs
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Engineering Manager at prolific
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior Audit Innovation and Enablement Lead at Monzo
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior Analytics Engineer at Monzo
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Staff Machine Learning Engineer (TLM), Driver Understanding and Evaluation at Waymo
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Staff Machine Learning Engineer, Simulation at Waymo
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Staff Machine Learning Engineer at Waymo
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Staff Machine Learning Engineer at Waymo
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Machine Learning Engineer at Waymo
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior SEO & GEO Director at Jellyfish
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: SEO Director at Jellyfish
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Capital Markets Analyst / Associate at Lendable
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Associate Product Manager at Lendable
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Python Analytics Engineer at Lendable
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Data Engineer at Lendable
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Python Engineer at Lendable
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Analytics Engineer at Lendable
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior Frontend Engineer, Marketing Website at Synthesia
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Location mismatch
+[dev:api] 
+[dev:api] Job: Research Crawling Engineer at Ant-Tech
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: AEM Backend Developer - Senior at Jobgether
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Software Development Engineer in Test at Sporty Group
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Devices & IOT Field Engineering Manager at Canonical Ltd.
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior Solutions Architect I, Pre-Sales - South Korea Defense & Intelligence at Planet Labs Inc.
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Sr. Security Researcher II (Remote, DEU) at CrowdStrike
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Principal DevOps Engineer at NBCUniversal
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Workflow Developer & Tester at Webbing
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Staff Cloud Security Engineer at Temporal Technologies
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior AI Data Engineer at Scorpion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Staff Data Scientist - Ads Measurement, Signals, Privacy at Reddit
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior Hypervisor Engineer at Nebius
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: C, Golang Software Engineer working on dqlite, a Raft extension for SQLite at Canonical Ltd.
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior Site Reliability Engineer at Remote
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior Software Engineer, Storage at Reddit
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Data/ Java Engineer (AI/LLM Chatbot, Customer Service) at Binance
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Client Full-Stack Engineer — IM Chat Platform, Android Focus at Binance
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior Backend Engineer, AI Engineering: Chat at GitLab
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Software Engineering Manager - Container and Virtualisation Infrastructure at Canonical Ltd.
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Ubuntu Linux Kernel Engineer - BIOS/Firmware at Canonical Ltd.
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior Manager of AI Enablement at CodePath
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Principal ML Engineer at Cloudbeds
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior Manager, Solutions Architecture - Growth at Temporal Technologies
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: SAP BTP Integration Developer (m/f/d) at SAP Fioneer
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior/Principal Biostatistician Consultant remote (Infectious Disease) at ClinChoice
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior AI Research Engineer at Phaidra
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior AI Research Scientist (Model-based RL) at Phaidra
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Sr Digital Customer Success Manager at Twilio
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior Site Reliability Engineer at Akamai Technologies
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Solidity Compiler Frontend Engineer at CertiK
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Location mismatch
+[dev:api] 
+[dev:api] Job: Senior Backend Software Engineer (USA Remote) at Turnitin, LLC
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Staff Engineer, Builder Enablement at NBCUniversal
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior Data Platform Engineer at 1Password
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Sr. Product Marketing Manager - Release Marketing & PMM Operations at Samsara
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Platform Engineer at Defense Unicorns
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Distributed Systems Engineer at MLabs
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Staff Software Engineer, Product Engineering, EU at Ashby
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior Software Engineer, Product Engineering, EU at Ashby
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior Gameplay Designer (Enemies/NPC) at CD PROJEKT RED
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior Frontend Software Engineer, Home Experience at Reddit
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Location mismatch
+[dev:api] 
+[dev:api] Job: Principal Software Engineer - Postgres at Clickhouse
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior Business Engineer - Ads at Reddit
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Engineering Manager, Service Platform at Instacart
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Machine Learning Engineer at ManTech
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior Business Engineer at Reddit
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Staff Backend Engineer / Tech Lead Manager at Nebius
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior Software Engineer, Compute (Temporal Cloud) at Temporal Technologies
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu at Canonical Ltd.
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: IoT Solutions Architecture Manager (Americas only) at Canonical Ltd.
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Senior Security Operations Engineer at Canonical Ltd.
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Engineering Manager - Ubuntu Security at Canonical Ltd.
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Engineering Manager - Ubuntu Linux Kernel at Canonical Ltd.
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Software Engineer, Infrastructure at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Software Engineer, Developer Experience at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Business Development Manager, Product & Platform at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Software Engineer, AI Workflows at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Software Engineer, AI Capture at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Software Engineer, Collections Experience at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Enterprise Technical Support Engineer at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Software Engineer, Trust at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Software Engineer, Product Analytics Platform at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Software Engineer, Early Career (AI) at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Developer Advocate at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Software Engineer, Web Infrastructure at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Security Engineer, Corporate Security at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Software Engineer, AI Security at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Software Engineer, Developer Experience (Go Lead) at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Country Manager, Taiwan at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Software Engineer, Early Career at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Country Manager, Italy at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Country Manager, Spain at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Business Systems Analyst at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
+[dev:api] 
+[dev:api] Job: Forward Deployed Architect, Japan at notion
+[dev:api] Status: Rejected
+[dev:api] Reasons:
+[dev:api] - Role mismatch
