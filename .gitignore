@@ -1,0 +1,12 @@
+node_modules/
+dist/
+data/
+.env
+.system_generated/
+*.metadata.json
+implementation_plan*.md
+task.md
+walkthrough.md
+linkedin_post.md
+scratch/
+.user_uploaded/

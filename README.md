@@ -1,8 +1,8 @@
 # Career Orbit
 
-Career Orbit is a local-first, explainable job-search agent. It parses a PDF, DOCX, or text resume, creates a candidate profile, queries compliant public job APIs, removes duplicates, ranks listings against the profile, remembers results, and generates an application kit.
+Career Orbit is a local-first, explainable job-search agent: **AI-assisted job search, minus the scraping**.
 
-It intentionally does **not** automate applications or scrape job boards that restrict it. The dashboard provides pre-filled direct search links for those boards, leaving account-specific browsing and final submission under the candidate's control.
+It intentionally does **not** automate applications. The agent parses your resume, creates a candidate profile, queries native job APIs, ranks listings against your profile, and provides a centralized dashboard of highly relevant matches. It finds and ranks jobs — but you stay in control of applying.
 
 ## Run locally
 

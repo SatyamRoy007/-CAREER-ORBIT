@@ -1,4 +1,0 @@
-{
-  "summary": "Utility to enforce per-agent timeout using Promise.race.",
-  "updatedAt": "2026-08-06T09:35:48.646099700Z"
-}

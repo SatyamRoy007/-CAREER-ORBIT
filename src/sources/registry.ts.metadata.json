@@ -1,5 +1,0 @@
-{
-  "summary": "Implements a dynamic plugin registry that discovers, loads, validates, and sorts JobSourcePlugin implementations from the plugins directory.",
-  "updatedAt": "2026-08-06T09:01:54.291710400Z",
-  "userFacing": true
-}
